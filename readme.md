@@ -55,13 +55,13 @@ Ter a oportunidade de colocar em prática meus conhecimentos, além de poder adq
 - Sass (Nível Acadêmico)
 - Bootstrap
 - Git
-- C# (Nível Básico)
-- .Net Core (Nível Básico)     
+- C# (Beginner)
+- .Net Core (Beginner)     
 - Python (Nível Acadêmico)                
 - Java (Nível Acadêmico)
 - PHP (Nível Acadêmico)
-- Javascript (Nível Básico)
-- Sql (Nível Básico)  
+- Javascript (Beginner)
+- Sql (Beginner)  
 - .Net Core (Beginner)      
 - Python (Beginner)                        
 - Java (Beginner)
