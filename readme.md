@@ -46,6 +46,8 @@ Ter a oportunidade de colocar em prática meus conhecimentos, além de poder adq
 - **ENGLISHTOWN**  
     - Inglês (2014 – 2015)  
 
+- **DUOLINGO**
+    - Inglês (2017)
 
 ## **HABILIDADES** 
 - HTML5
@@ -53,22 +55,19 @@ Ter a oportunidade de colocar em prática meus conhecimentos, além de poder adq
 - Sass (Nível Acadêmico)
 - Bootstrap
 - Git
-<<<<<<< HEAD
 - C# (Nível Básico)
 - .Net Core (Nível Básico)     
 - Python (Nível Acadêmico)                
 - Java (Nível Acadêmico)
 - PHP (Nível Acadêmico)
 - Javascript (Nível Básico)
-- Sql (Nível Básico)
-=======
-- .Net Core (Beginner)                                                     
+- Sql (Nível Básico)  
+- .Net Core (Beginner)      
 - Python (Beginner)                        
 - Java (Beginner)
 - PHP (Beginner)
 - Javascript (Beginner)
 - Sql (Beginner)
->>>>>>> 41927f393e7a0e0d53404073729a333e718053bd
 
 ## **IDIOMAS**
 - Português - Nativo
