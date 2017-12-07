@@ -50,24 +50,22 @@ Ter a oportunidade de colocar em prática meus conhecimentos, além de poder adq
     - Inglês (2017)
 
 ## **HABILIDADES** 
-- HTML5
-- CSS3
-- Sass (Nível Acadêmico)
-- Bootstrap
-- Git
-- C# (Beginner)
-- .Net Core (Beginner)     
-- Python (Nível Acadêmico)                
-- Java (Nível Acadêmico)
-- PHP (Nível Acadêmico)
-- Javascript (Beginner)
-- Sql (Beginner)  
-- .Net Core (Beginner)      
-- Python (Beginner)                        
-- Java (Beginner)
-- PHP (Beginner)
-- Javascript (Beginner)
-- Sql (Beginner)
+- Nível Intermediário
+    - HTML5
+    - CSS3
+    - Bootstrap
+    - Git
+- Nível Iniciante
+    - C#
+    - Asp Net Core
+    - Javascript
+    - Sql
+- Nível Acadêmico
+    - Sass
+    - Python
+    - Java
+    - PHP
+    - MySql
 
 ## **IDIOMAS**
 - Português - Nativo
