@@ -28,6 +28,9 @@ Ter a oportunidade de colocar em prática meus conhecimentos, além de poder adq
         Foram criadas [issues](https://github.com/rnataoliveira/HiP-Gestor/issues) para a realização de uma entrega inicial (Beta 1) que estamos seguindo para realizar a implementação.
 
 
+- **Egghead.io**
+    - [Getting Started with Redux (Em andamento)](https://egghead.io/courses/getting-started-with-redux)
+
 - **UDEMY**  
     - [The Web Developer Bootcamp (Em andamento)](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/overview)
 
