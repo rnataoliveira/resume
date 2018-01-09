@@ -60,8 +60,8 @@ Ter a oportunidade de colocar em prática meus conhecimentos, além de poder adq
     - Asp Net Core
     - Javascript
     - Sql
+    - React
 - Nível Acadêmico
-    - Sass
     - Python
     - Java
     - PHP
