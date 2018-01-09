@@ -16,7 +16,7 @@ Ter a oportunidade de colocar em prática meus conhecimentos, além de poder adq
 ## **EDUCAÇÃO**
 
 - **FACULDADE IMPACTA DE TECNOLOGIA** (2016 – 2018)  
-    - Análise e Desenvolvimento de Sistemas (4º Semestre)
+    - Análise e Desenvolvimento de Sistemas (5º Semestre)
         - [Trabalhos e exercícios do curso](https://github.com/rnataoliveira/analise-desenvolvimento-de-sistemas)
 
         - [Projeto de biblioteca](https://github.com/rnataoliveira/library)  
@@ -72,5 +72,3 @@ Ter a oportunidade de colocar em prática meus conhecimentos, além de poder adq
 - Inglês - Intermediário 
 
 [Baixar este arquivo - PDF](https://gitprint.com/rnataoliveira/resume/blob/master/readme.md?download)
-
-
