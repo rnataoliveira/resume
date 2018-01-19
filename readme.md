@@ -27,6 +27,8 @@ Ter a oportunidade de colocar em prática meus conhecimentos, além de poder adq
         Atualmente estou trabalhando na execução do projeto de TCC, o qual é um sistema de gestão com foco em um cliente real. O projeto é baseado nas necessidades de uma corretora de planos de saúde. 
         Foram criadas [issues](https://github.com/rnataoliveira/HiP-Gestor/issues) para a realização de uma entrega inicial (Beta 1) que estamos seguindo para realizar a implementação.
 
+- **WesBos**
+    - [Learn Redux (2018)](https://courses.wesbos.com/account/access/5a5f67c3d70b6b62cecad30b)
 
 - **Egghead.io**
     - [Getting Started with Redux (Em andamento)](https://egghead.io/courses/getting-started-with-redux)
@@ -64,6 +66,9 @@ Ter a oportunidade de colocar em prática meus conhecimentos, além de poder adq
     - Javascript
     - Sql
     - React
+    - Redux
+    - jQuery
+    - ES6
 - Nível Acadêmico
     - Python
     - Java
