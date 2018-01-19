@@ -55,12 +55,12 @@ Ter a oportunidade de colocar em prática meus conhecimentos, além de poder adq
     - Inglês (2017)
 
 ## **HABILIDADES** 
-- Nível Intermediário
+- **Nível Intermediário**
     - HTML5
     - CSS3
     - Bootstrap
     - Git
-- Nível Iniciante
+- **Nível Iniciante**
     - C#
     - Asp Net Core
     - Javascript
@@ -69,7 +69,7 @@ Ter a oportunidade de colocar em prática meus conhecimentos, além de poder adq
     - Redux
     - jQuery
     - ES6
-- Nível Acadêmico
+- **Nível Acadêmico**
     - Python
     - Java
     - PHP
