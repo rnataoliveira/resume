@@ -42,7 +42,7 @@ Joelma Renata Alves de Oliveira, estou com 24 anos, formada em Análise e Desenv
     - Inglês (2016)  
 
 ## **EXPERIÊNCIA**
-    - **CRODITY**
+- **CRODITY**  
         Trabalhei como desenvolvedora front-end utilizando React, ES6, Sass, Material Ui e Materialize, além de auxiliar
         nas necessidade de UI/UX e também no back-end quando necessário, utilizando tecnologias como Node, Meteor e Mongo
         DB.
