@@ -71,8 +71,6 @@ Joelma Renata Alves de Oliveira, estou com 24 anos, formada em Análise e Desenv
 - Português - Nativo
 - Inglês - Intermediário 
 
-[Baixar este arquivo - PDF](https://gitprint.com/rnataoliveira/resume/blob/master/readme.md?download)
-
 ## **PROJETOS**
 
 * O Barato Sai Caro  
@@ -91,4 +89,7 @@ Joelma Renata Alves de Oliveira, estou com 24 anos, formada em Análise e Desenv
 [Client Side](https://github.com/rnataoliveira/hipcrm-client)  
 [Server Side](https://github.com/rnataoliveira/hipcrm-server)  
     O hipcrm foi um projeto desenvolvido como projeto de conclusão de curso, baseado no problema de um cliente do mundo real. Neste caso, uma corretora de planos de saúde. 
-    Foram utilizadas tecnologias como: React, Redux e Bootstrap no front-end; C# e Asp Net Core no back-end;
+    Foram utilizadas tecnologias como: React, Redux e Bootstrap no front-end; C# e Asp Net Core no back-end;  
+
+
+[Baixar este arquivo - PDF](https://gitprint.com/rnataoliveira/resume/blob/master/readme.md?download)
