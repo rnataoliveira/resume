@@ -1,40 +1,30 @@
 # RENATA OLIVEIRA
-**Estudante de Análise e Desenvolvimento de Sistemas**
+**Análise e Desenvolvimento de Sistemas**
 
  renatabels@gmail.com  
- [github.com/rnataoliveira](https://github.com/rnataoliveira)
+ [github.com/rnataoliveira](https://github.com/rnataoliveira)  
+ [linkedin.com/in/rnataoliveira](https://www.linkedin.com/in/rnataoliveira/)
 
 ## **SOBRE**
-Joelma Renata Alves de Oliveira, 23 anos. Desde de muito cedo tenho a fotografia como hobbie, já fui designer de interiores e de móveis planejados, trabalhando com o software Promob.
-Comecei a estudar publicidade pois sempre gostei muito da parte criativa e do ato de comunicar em suas diversas formas. Entretanto, por ter um convívio com muitas pessoas que já atuam no mercado de tecnologia, tive o interesse de me aprofundar e buscar cursos de graduação e extensão na área de TI.
-
-Acredito que o mercado de TI se associe um pouco com as áreas pelas quais já passei ou pude conhecer de alguma forma, na fotografia por exemplo temos planejamento, raciocínio e qualidade de execução que são essenciais para a execução boa fotografia, nos processos de TI. Ou, também no Design de Interiores com Softwares de Processamento Gráfico que possuem complexos algoritmos. E, na publicidade que é uma área que trabalha com TI. Percebi que de alguma forma todas as minhas experiências anteriores contribuíram para a minha atual escolha de carreira.
-
-## **OBJETIVO**
-Ter a oportunidade de colocar em prática meus conhecimentos, além de poder adquirir conhecimento acerca das possibilides dentro do mercado de TI. Acredito que me inserir no mercado de trabalho ainda estando na faculdade fará um enorme diferencial na minha vida profissional e me permitirá adquirir ainda mais conhecimentos.
+Joelma Renata Alves de Oliveira, estou com 24 anos, formada em Análise e Desenvolvimento de Sistemas pela faculdade Impacta
+        de Tecnologia. Desde de muito cedo gostei de fotografia como hobbie, já fui designer de interiores e de móveis planejados,
+        trabalhando com o software Promob. Comecei a estudar publicidade pois sempre gostei muito da parte criativa e do
+        ato de comunicar em suas diversas formas. Entretanto, por ter um convívio com muitas pessoas que já atuam no mercado
+        de tecnologia, tive o interesse de me aprofundar e buscar cursos de graduação e extensão na área de TI. Comecei a
+        trabalhar ainda durante a graduação fazendo estágio em uma startup com foco no desenvolvimento em uma rede social.
 
 ## **EDUCAÇÃO**
 
-- **FACULDADE IMPACTA DE TECNOLOGIA** (2016 – 2018)  
-    - Análise e Desenvolvimento de Sistemas (5º Semestre)
-        - [Trabalhos e exercícios do curso](https://github.com/rnataoliveira/analise-desenvolvimento-de-sistemas)
-
-        - [Projeto de biblioteca](https://github.com/rnataoliveira/library)  
-        Realizei o levantamento de requisitos para a documentação, utilizando diagrama de caso de uso, sequência, atividade e Storyboard.
-        Utilizamos bootstrap no front-end e, no back-end utilizamos .Net Core para lidar com as funcionalidades de autenticação, busca e reserva. Para as demais funcionalidades, empréstimo, devolução, multas e crud utilizamos Java.
-
-        - [OPE](https://github.com/rnataoliveira/HiP-Gestor)  
-        Atualmente estou trabalhando na execução do projeto de TCC, o qual é um sistema de gestão com foco em um cliente real. O projeto é baseado nas necessidades de uma corretora de planos de saúde. 
-        Foram criadas [issues](https://github.com/rnataoliveira/HiP-Gestor/issues) para a realização de uma entrega inicial (Beta 1) que estamos seguindo para realizar a implementação.
-
+- **FACULDADE IMPACTA DE TECNOLOGIA**  
+    - Análise e Desenvolvimento de Sistemas (2018) 
 - **WesBos**
     - [Learn Redux (2018)](https://courses.wesbos.com/account/access/5a5f67c3d70b6b62cecad30b)
 
 - **Egghead.io**
-    - [Getting Started with Redux (Em andamento)](https://egghead.io/courses/getting-started-with-redux)
+    - [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
 
 - **UDEMY**  
-    - [The Web Developer Bootcamp (Em andamento)](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/overview)
+    - [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/overview)
 
 - **PLURALSIGHT**  
     - [Introduction to SQL Server (2016)](https://github.com/rnataoliveira/resume/blob/master/certificates/CertificateIntroductionToSQLServer.pdf)  
@@ -46,37 +36,59 @@ Ter a oportunidade de colocar em prática meus conhecimentos, além de poder adq
 
 - **CODECADEMY**  
     - HTML5/CSS3  (2017)  
-    - Python (2015-2016)
+    - Python (2016)
 
 - **ENGLISHTOWN**  
-    - Inglês (2014 – 2015)  
+    - Inglês (2016)  
 
-- **DUOLINGO**
-    - Inglês (2017)
+## **EXPERIÊNCIA**
+    - **CRODITY**
+        Trabalhei como desenvolvedora front-end utilizando React, ES6, Sass, Material Ui e Materialize, além de auxiliar
+        nas necessidade de UI/UX e também no back-end quando necessário, utilizando tecnologias como Node, Meteor e Mongo
+        DB.
 
 ## **HABILIDADES** 
-- **Nível Intermediário**
-    - HTML5
-    - CSS3
-    - Bootstrap
-    - Git
-- **Nível Iniciante**
-    - C#
-    - Asp Net Core
-    - Javascript
-    - Sql
-    - React
-    - Redux
-    - jQuery
-    - ES6
-- **Nível Acadêmico**
-    - Python
-    - Java
-    - PHP
-    - MySql
+* HTML5
+* CSS3
+* Bootstrap
+* Git
+* Material UI
+* Materialize
+* Vanilla JS
+* React
+* Redux
+* C#
+* Asp Net Core
+* Sql
+* React
+* Redux
+* jQuery
+* Node
+* Python
+* Java
 
 ## **IDIOMAS**
 - Português - Nativo
 - Inglês - Intermediário 
 
 [Baixar este arquivo - PDF](https://gitprint.com/rnataoliveira/resume/blob/master/readme.md?download)
+
+## **PROJETOS**
+
+* O Barato Sai Caro  
+[Link](https://github.com/rnataoliveira/o-barato-sai-caro-ltda)  
+    Este projeto foi desenvolvido no decorrer da graduação, utilizando-se a linguagem Java, onde soluciona o problema de um supermercado. Foram utilizadas fila, pilha e lista para a implementação.
+
+* RGB Color Game  
+[Link](https://rnataoliveira.github.io/rgb-color-game/)  
+    Este projeto foi desenvolvido durante a realização do curso "The Web Developer Bootcamp" da Udemy, com foco em tecnologias web, onde a partir do RGB() dado são mostrados cards com as cores para que se possa 'advinhar' qual cor corresponde ao RGB pré determinado.
+
+* Brainn Challenge  
+[Link](https://github.com/rnataoliveira/challenge/tree/master/resolution)  
+    Com este desafio iniciei minha aprendizagem com React e Redux. Foi onde tive a primeira oportunidade de conhecer tais tecnologias e implementar uma solução que a partir de um usuário do github pegasse todos os repositórios (stars), permitisse adicionar tags, editá-las e também realizar a busca pelas mesmas.
+
+* Hipcrm  
+[Client Side](https://github.com/rnataoliveira/hipcrm-client)  
+[Server Side](https://github.com/rnataoliveira/hipcrm-server)  
+    O hipcrm foi um projeto desenvolvido como projeto de conclusão de curso, baseado no problema de um cliente do mundo real. Neste caso, uma corretora de planos de saúde. 
+    Foram utilizadas tecnologias como: React, Redux e Bootstrap no front-end; C# e Asp Net Core no back-end;
