@@ -1,12 +1,14 @@
 # RENATA OLIVEIRA
-**Análise e Desenvolvimento de Sistemas**
+**Front-end Developer**
 
  renatabels@gmail.com  
  [github.com/rnataoliveira](https://github.com/rnataoliveira)  
  [linkedin.com/in/rnataoliveira](https://www.linkedin.com/in/rnataoliveira/)
 
 ## **SOBRE**
-Joelma Renata Alves de Oliveira, estou com 24 anos, formada em Análise e Desenvolvimento de Sistemas pela Faculdade Impacta de Tecnologia. Desde de muito cedo gostei de fotografia como hobbie, já fui designer de interiores e de móveis planejados, trabalhando com o software Promob. Comecei a estudar publicidade pois sempre gostei muito da parte criativa e do ato de comunicar em suas diversas formas. Entretanto, por ter um convívio com muitas pessoas que já atuam no mercado de tecnologia, tive o interesse de me aprofundar e buscar cursos de graduação e extensão na área de TI. Comecei a trabalhar ainda durante a graduação fazendo estágio em uma startup com foco no desenvolvimento em uma rede social.
+Joelma Renata Alves de Oliveira, estou com 24 anos, formada em Análise e Desenvolvimento de Sistemas pela Faculdade Impacta de Tecnologia.
+Entrei no mercado de tecnologia por acreditar que seria algo bom ser desafiada todos os dias. Desde então tenho buscado sempre agregar conhecimento. Tive experiência trabalhando principalmente com front-end, mas também com back-end. Foi no dia-a-dia que pude colocar em prática boa parte dos conhecimentos adquiridos e também aprender tecnologias novas, além de entender melhor o funcionamento das equipes de TI e das metodologias de trabalho.
+Além disso, já estudei fotografia, publicidade e trabalhei com designer de interiores e móveis.
 
 ## **EDUCAÇÃO**
 
@@ -45,6 +47,7 @@ Joelma Renata Alves de Oliveira, estou com 24 anos, formada em Análise e Desenv
 ## **HABILIDADES** 
 * HTML5
 * CSS3
+* Sass
 * Bootstrap
 * Git
 * Material UI
