@@ -10,7 +10,7 @@ Joelma Renata Alves de Oliveira, estou com 24 anos, formada em Análise e Desenv
 Entrei no mercado de tecnologia por acreditar que seria algo bom ser desafiada todos os dias. Desde então tenho buscado sempre agregar conhecimento. Tive experiência trabalhando principalmente com front-end, mas também com back-end. Foi no dia-a-dia que pude colocar em prática boa parte dos conhecimentos adquiridos e também aprender tecnologias novas, além de entender melhor o funcionamento das equipes de TI e das metodologias de trabalho.
 Além disso, já estudei fotografia, publicidade e trabalhei com designer de interiores e móveis.
 
-## **EDUCAÇÃO**
+## **FORMAÇÃO**
 
 - **FACULDADE IMPACTA DE TECNOLOGIA**  
     - Análise e Desenvolvimento de Sistemas (2018) 
