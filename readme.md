@@ -41,7 +41,7 @@ Além disso, já estudei fotografia, publicidade e trabalhei com designer de int
 ## **EXPERIÊNCIA**
 - **CRODITY**  
         Trabalhei como desenvolvedora front-end utilizando React, ES6, Sass, Material Ui e Materialize, além de auxiliar
-        nas necessidade de UI/UX e também no back-end quando necessário, utilizando tecnologias como Node, Meteor e Mongo
+        nas necessidades de UI/UX e também no back-end quando necessário, utilizando tecnologias como Node, Meteor e Mongo
         DB.
 
 ## **HABILIDADES** 
