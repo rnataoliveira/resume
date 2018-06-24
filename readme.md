@@ -77,7 +77,7 @@ Além disso, já estudei fotografia, publicidade e trabalhei com designer de int
 
 * RGB Color Game  
 [Link](https://rnataoliveira.github.io/rgb-color-game/)  
-    Este projeto foi desenvolvido durante a realização do curso "The Web Developer Bootcamp" da Udemy, com foco em tecnologias web, onde a partir do RGB() dado são mostrados cards com as cores para que se possa 'advinhar' qual cor corresponde ao RGB pré determinado.
+    Este projeto foi desenvolvido durante a realização do curso "The Web Developer Bootcamp" da Udemy, com foco em tecnologias web, onde a partir do RGB dado são mostrados cards com as cores para que se possa 'advinhar' qual cor corresponde ao RGB pré determinado.
 
 * Brainn Challenge  
 [Link](https://github.com/rnataoliveira/challenge/tree/master/resolution)  
@@ -87,7 +87,7 @@ Além disso, já estudei fotografia, publicidade e trabalhei com designer de int
 [Client Side](https://github.com/rnataoliveira/hipcrm-client)  
 [Server Side](https://github.com/rnataoliveira/hipcrm-server)  
     O hipcrm foi um projeto desenvolvido como projeto de conclusão de curso, baseado no problema de um cliente do mundo real. Neste caso, uma corretora de planos de saúde. 
-    Foram utilizadas tecnologias como: React, Redux e Bootstrap no front-end; C# e Asp Net Core no back-end;  
+    Foram utilizadas tecnologias como: React, Redux e Bootstrap no front-end; C# e Asp Net Core no back-end.
 
 
 [Baixar este arquivo - PDF](https://gitprint.com/rnataoliveira/resume/blob/master/readme.md?download)
