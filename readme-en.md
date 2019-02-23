@@ -1,0 +1,122 @@
+# **Renata Oliveira**
+
+## Front-end developer
+
+<img src="https://avatars2.githubusercontent.com/u/17580197?s=400&u=4448fcb4f41463ce9ab04befb337411454070a37&v=4" style="border-radius: 50%;" width="100px"/>
+
+renatabels@gmail.com  
+[github.com/rnataoliveira](https://github.com/rnataoliveira/)  
+[linkedin.com/in/rnataoliveira](https://www.linkedin.com/in/rnataoliveira/)
+
+<a href="https://rnataoliveira.github.io/resume/">pt</a> | en
+
+## **SOBRE**
+
+Joelma Renata Alves de Oliveira, I'm 24 years old, graduated in Systems Analysis and Development by Faculdade Impacta de Tecnologia. I entered the technology market because I believed it would be good to be challenged every day. Since then I have always sought to add knowledge. I have had experience working mainly with front-end, but also with back-end. It was on a day-to-day basis that I was able to put into practice much of the knowledge acquired and also learn new technologies, as well as better understand the workings of IT teams and work methodologies. 
+In addition, I studied photography, advertising and worked with interior designer and furniture.
+
+## **FORMAÇÃO**
+
+- **FACULDADE IMPACTA DE TECNOLOGIA**
+
+  - Systems Analysis and Development (2018)
+
+- **WesBos**
+
+  - [Learn Redux (2018)](https://courses.wesbos.com/account/access/5a5f67c3d70b6b62cecad30b)
+
+- **Egghead.io**
+
+  - [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
+
+- **UDEMY**
+
+  - [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/overview)
+
+- **PLURALSIGHT**
+
+  - [Introduction to SQL Server (2016)](https://github.com/rnataoliveira/resume/blob/master/certificates/CertificateIntroductionToSQLServer.pdf)
+  - [SQL Server: Transact-SQL Basic Data Modification (2017)](https://github.com/rnataoliveira/resume/blob/master/certificates/SQLServer-Transact-SQL%20Basic%20Data%20Modification.pdf)
+  - [HTTP Fundamentals (2017](https://github.com/rnataoliveira/resume/blob/master/certificates/HTTPFundamentals.pdf)
+
+- **SOFTBLUE**
+
+  - [Full SQL Course (2016)](https://github.com/rnataoliveira/resume/blob/master/certificates/CURSO-SQL.pdf)
+
+- **CODECADEMY**
+
+  - HTML5/CSS3 (2017)
+  - Python (2016)
+
+- **ENGLISHTOWN**
+  - English (2016)
+
+## **EXPERIÊNCIA**
+
+## **[Webedia](http://www.webedia.com.br/) - [Minha Vida](https://minhavida.com.br/)**
+
+### **Sampleo**
+
+It is a product that aims to promote company brands, where customers can participate in campaigns and receive samples at home to perform the test and fulfill tasks that prove that the product was actually tested, allowing ordinary people to become influencers of brands in social networks. For this project we realize integrations with social networks, as well as the creation of the front-end, from basic functionalities, like all part of campaign management.
+
+### **Templatator**
+
+This project was based on the needs of the company to manage the templates, which are the content views of the site [Minha Vida](https://minhavida.com.br/), where it is possible to add, remove, change and even duplicate a template, in addition to allowing the creation of more elaborate as well as sponsored templates. The realization of the same was done using technologies such as node for the construction of a user API, which allows to manage the logins with Google, besides .Net, language in which the API of templates is made and, the front- end in which I could be Lead, was built on React (ES6), based on a Redux architecture.
+
+## **[Crodity](https://www.crodity.com/)**
+
+This was my first experience working on a startup. The initial idea of ​​the product was to build a social network with its own internal reseller / product-based solutions based on influential people. I was able to participate in the process of consolidating ideas, as well as being ahead of the front-end processes using Javascript, React (ES6), and participate in small back-end troubleshooting with technologies such as Node and Meteor.
+
+## **HABILIDADES**
+
+Bootstrap  
+CSS 3  
+Git  
+HTML 5  
+jQuery  
+Materialize  
+Material UI  
+React  
+Redux  
+Javascript
+ES 6, 7  
+Docker  
+Asp Net Core  
+C#  
+Node  
+Meteor  
+Sql  
+Mongo  
+Scrum
+
+## **IDIOMAS**
+
+- Portuguese - Native
+- English - Intermediate
+
+## **OUTROS PROJETOS**
+
+- Vaccination Portfolio  
+  [Client Side](https://github.com/rnataoliveira/code-challenge/tree/master/client)  
+  [Server Side](https://github.com/rnataoliveira/code-challenge/tree/master/server)  
+  This project was developed with the goal of creating an online vaccination portfolio that would allow N persons to be added with vaccines as well as store their basic personal information. It was the test conducted for webedia - (Minha Vida), for the full-stack developer, where I was able to build an API in C # and Asp Net Core and the front end using React and Bootstrap, in addition to the message shots of error and success when needed.
+
+- Hipcrm  
+   [Client Side](https://github.com/rnataoliveira/hipcrm-client)  
+   [Server Side](https://github.com/rnataoliveira/hipcrm-server)  
+  Hipcrm was a project developed as a course completion project based on the problem of a real-world customer. In this case, a health plan broker.
+  Technologies such as React, Redux and Bootstrap on the front end, C # and Asp Net Core on the back end were used.  
+   [Baixar este arquivo - PDF](https://gitprint.com/rnataoliveira/resume/blob/master/readme.md?download)
+
+- [Brainn Challenge](https://github.com/rnataoliveira/challenge/tree/master/resolution)  
+  With this challenge I started my learning with React and Redux. It was where I had the first opportunity to know such technologies and implement a solution that from a github user took all the repositories (stars), allowing to add tags, edit them and also search for them.
+
+- [RGB Color Game](https://rnataoliveira.github.io/rgb-color-game/)  
+   This project is a game that from the given RGB are shown cards with the colors so that one can 'guess' which color corresponds to the predetermined RGB. The same was developed during the course "The Web Developer Bootcamp" of Udemy, focusing on web technologies.
+
+* [O Barato Sai Caro](https://github.com/rnataoliveira/o-barato-sai-caro-ltda)  
+  This project aimed to solve problems found in a supermarket, where each release of a box a person from the queue should be removed and sent to the free box with its stack of items to be billed and so on. For the implementation of the same was used the Java programming language, using resources such as queue, stack and list.
+
+---
+
+[Baixar este arquivo - PDF](https://gitprint.com/rnataoliveira/resume/blob/master/readme.md?download)
