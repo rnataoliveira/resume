@@ -1,21 +1,21 @@
 # **Renata Oliveira**
 
-## Front-end developer
-
 <img src="https://avatars2.githubusercontent.com/u/17580197?s=400&u=4448fcb4f41463ce9ab04befb337411454070a37&v=4" style="border-radius: 50%;" width="100px"/>
+
+## Front-end Developer  
 
 renatabels@gmail.com  
 [github.com/rnataoliveira](https://github.com/rnataoliveira/)  
 [linkedin.com/in/rnataoliveira](https://www.linkedin.com/in/rnataoliveira/)
 
-<a href="https://rnataoliveira.github.io/resume/">pt</a> | en
+<a href="https://rnataoliveira.github.io/resume/">pt</a> | <a href="https://rnataoliveira.github.io/resume/readme-en">en</a>
 
-## **SOBRE**
+## **ABOUT**
 
 Joelma Renata Alves de Oliveira, I'm 24 years old, graduated in Systems Analysis and Development by Faculdade Impacta de Tecnologia. I entered the technology market because I believed it would be good to be challenged every day. Since then I have always sought to add knowledge. I have had experience working mainly with front-end, but also with back-end. It was on a day-to-day basis that I was able to put into practice much of the knowledge acquired and also learn new technologies, as well as better understand the workings of IT teams and work methodologies. 
 In addition, I studied photography, advertising and worked with interior designer and furniture.
 
-## **FORMAÇÃO**
+## **EDUCATION**
 
 - **FACULDADE IMPACTA DE TECNOLOGIA**
 
@@ -51,7 +51,7 @@ In addition, I studied photography, advertising and worked with interior designe
 - **ENGLISHTOWN**
   - English (2016)
 
-## **EXPERIÊNCIA**
+## **EXPERIENCE**
 
 ## **[Webedia](http://www.webedia.com.br/) - [Minha Vida](https://minhavida.com.br/)**
 
@@ -67,7 +67,7 @@ This project was based on the needs of the company to manage the templates, whic
 
 This was my first experience working on a startup. The initial idea of ​​the product was to build a social network with its own internal reseller / product-based solutions based on influential people. I was able to participate in the process of consolidating ideas, as well as being ahead of the front-end processes using Javascript, React (ES6), and participate in small back-end troubleshooting with technologies such as Node and Meteor.
 
-## **HABILIDADES**
+## **SKILLS**
 
 Bootstrap  
 CSS 3  
@@ -89,12 +89,12 @@ Sql
 Mongo  
 Scrum
 
-## **IDIOMAS**
+## **LANGUAGES**
 
 - Portuguese - Native
 - English - Intermediate
 
-## **OUTROS PROJETOS**
+## **OTHER PROJECTS**
 
 - Vaccination Portfolio  
   [Client Side](https://github.com/rnataoliveira/code-challenge/tree/master/client)  
@@ -119,4 +119,4 @@ Scrum
 
 ---
 
-[Baixar este arquivo - PDF](https://gitprint.com/rnataoliveira/resume/blob/master/readme.md?download)
+[Download this file - PDF](https://gitprint.com/rnataoliveira/resume/blob/master/readme.md?download)

@@ -1,15 +1,14 @@
 # **Renata Oliveira**
 
-## Front-end developer
-
 <img src="https://avatars2.githubusercontent.com/u/17580197?s=400&u=4448fcb4f41463ce9ab04befb337411454070a37&v=4" style="border-radius: 50%;" width="100px"/>
+
+## Front-end Developer  
 
 renatabels@gmail.com  
 [github.com/rnataoliveira](https://github.com/rnataoliveira/)  
 [linkedin.com/in/rnataoliveira](https://www.linkedin.com/in/rnataoliveira/)
 
-
-<a href="https://rnataoliveira.github.io/resume/">pt</a> | en
+<a href="https://rnataoliveira.github.io/resume/">pt</a> | <a href="https://rnataoliveira.github.io/resume/readme-en">en</a>
 
 ## **SOBRE**
 Joelma Renata Alves de Oliveira, estou com 24 anos, graduada em Análise e Desenvolvimento de Sistemas pela Faculdade Impacta de Tecnologia. Entrei no mercado de tecnologia por acreditar que seria algo bom ser desafiada todos os dias. Desde então tenho buscado sempre agregar conhecimento. Tive experiência trabalhando principalmente com front-end, mas também com back-end. Foi no dia-a-dia que pude colocar em prática boa parte dos conhecimentos adquiridos e também aprender tecnologias novas, além de entender melhor o funcionamento das equipes de TI e das metodologias de trabalho.
