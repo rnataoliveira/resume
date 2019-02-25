@@ -107,8 +107,7 @@ Scrum
    [Client Side](https://github.com/rnataoliveira/hipcrm-client)  
    [Server Side](https://github.com/rnataoliveira/hipcrm-server)  
   Hipcrm was a project developed as a course completion project based on the problem of a real-world customer. In this case, a health plan broker.
-  Technologies such as React, Redux and Bootstrap on the front end, C # and Asp Net Core on the back end were used.  
-   [Baixar este arquivo - PDF](https://gitprint.com/rnataoliveira/resume/blob/master/readme.md?download)
+  Technologies such as React, Redux and Bootstrap on the front end, C # and Asp Net Core on the back end were used. 
 
 - [Brainn Challenge](https://github.com/rnataoliveira/challenge/tree/master/resolution)  
   With this challenge I started my learning with React and Redux. It was where I had the first opportunity to know such technologies and implement a solution that from a github user took all the repositories (stars), allowing to add tags, edit them and also search for them.
@@ -121,4 +120,4 @@ Scrum
 
 ---
 
-[Download this file - PDF](https://gitprint.com/rnataoliveira/resume/blob/master/readme.md?download)
+[Download this file - PDF](https://gitprint.com/rnataoliveira/resume/blob/master/readme-en.md?download)
