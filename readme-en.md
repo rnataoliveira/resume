@@ -12,7 +12,7 @@ renatabels@gmail.com
 
 ## **ABOUT**
 
-Joelma Renata Alves de Oliveira, I'm 24 years old, graduated in Systems Analysis and Development by Faculdade Impacta de Tecnologia. I entered the technology market because I believed it would be good to be challenged every day. Since then I have always sought to add knowledge. I have had experience working mainly with front-end, but also with back-end. It was on a day-to-day basis that I was able to put into practice much of the knowledge acquired and also learn new technologies, as well as better understand the workings of IT teams and work methodologies. 
+Joelma Renata Alves de Oliveira, I'm 24 years old, graduated in Systems Analysis and Development at Faculdade Impacta de Tecnologia. I entered the technology market because I believed it would be good to be challenged every day. Since then I have always sought to add knowledge. I have had experience working mainly with front-end, but also with back-end. It was on a day-to-day basis that I was able to put into practice much of the knowledge acquired and also learn new technologies, as well as better understand the workings of IT teams and work methodologies. 
 In addition, I studied photography, advertising and worked with interior designer and furniture.
 
 ## **EDUCATION**
@@ -57,11 +57,11 @@ In addition, I studied photography, advertising and worked with interior designe
 
 ### **Sampleo**
 
-It is a product that aims to promote company brands, where customers can participate in campaigns and receive samples at home to perform the test and fulfill tasks that prove that the product was actually tested, allowing ordinary people to become influencers of brands in social networks. For this project we realize integrations with social networks, as well as the creation of the front-end, from basic functionalities, like all part of campaign management.
+It is a product that aims to promote company brands, where customers can participate in campaigns and receive samples at home to perform the test and fulfill tasks that prove that the product was actually tested, allowing regular people to become influencers of brands in social networks. For this project we realize integrations with social networks, as well as the creation of the front-end, from basic functionalities, like all part of campaign management.
 
 ### **Templatator**
 
-This project was based on the needs of the company to manage the templates, which are the content views of the site [Minha Vida](https://minhavida.com.br/), where it is possible to add, remove, change and even duplicate a template, in addition to allowing the creation of more elaborate as well as sponsored templates. The realization of the same was done using technologies such as node for the construction of a user API, which allows to manage the logins with Google, besides .Net, language in which the API of templates is made and, the front- end in which I could be Lead, was built on React (ES6), based on a Redux architecture.
+This project was based on the needs of the company to manage the templates, which are the content views of the site [Minha Vida](https://minhavida.com.br/), where it is possible to add, remove, change and even duplicate a template, in addition to allowing the creation of more elaborate as well as sponsored templates. We build this using technologies such as node for the construction of a user API, which allows to manage the logins with Google, besides .Net, language in which the API of templates is made and, the front- end in which I could be Lead, was built on React (ES6), based on a Redux architecture.
 
 ## **[Crodity](https://www.crodity.com/)**
 
@@ -72,14 +72,16 @@ This was my first experience working on a startup. The initial idea of ​​the
 Bootstrap  
 CSS 3  
 Git  
-HTML 5  
-jQuery  
+HTML 5 
+ES6   
+jQuery 
+Javascript   
 Materialize  
 Material UI  
+Sass  
+Less  
 React  
 Redux  
-Javascript
-ES 6, 7  
 Docker  
 Asp Net Core  
 C#  
