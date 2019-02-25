@@ -61,7 +61,7 @@ It is a product that aims to promote company brands, where customers can partici
 
 ### **Templatator**
 
-This project was based on the needs of the company to manage the templates, which are the content views of the site [Minha Vida](https://minhavida.com.br/), where it is possible to add, remove, change and even duplicate a template, in addition to allowing the creation of more elaborate as well as sponsored templates. We build this using technologies such as node for the construction of a user API, which allows to manage the logins with Google, besides .Net, language in which the API of templates is made and, the front- end in which I could be Lead, was built on React (ES6), based on a Redux architecture.
+This project was based on the needs of the company to manage the templates, which are the content views of the site [Minha Vida](https://minhavida.com.br/), where it is possible to add, remove, change and even duplicate a template, in addition to allowing the creation of more elaborate as well as sponsored templates. We built this using technologies such as node for the construction of a user API, which allows to manage the logins with Google, besides .Net, language in which the API of templates is made and, the front- end in which I could be Lead, was built on React (ES6), based on a Redux architecture.
 
 ## **[Crodity](https://www.crodity.com/)**
 
