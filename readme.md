@@ -72,7 +72,7 @@ Material UI
 React  
 Redux  
 Javascript  
-ES 6
+ES 6  
 Docker  
 Asp Net Core  
 C#  
