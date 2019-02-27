@@ -47,17 +47,17 @@ Além disso, já estudei fotografia, publicidade e trabalhei com designer de int
 ## **[Webedia](http://www.webedia.com.br/) - [Minha Vida](https://minhavida.com.br/)**
 
 ### **Templatator**
-> [React, Redux, ES6, Scss, Bootstrap, Oidc]
+> React, Redux, ES6, Scss, Bootstrap, Oidc
 
 Este projeto baseou-se nas necessidades da empresa em gerir os templates, que são as views de conteúdos do site [Minha Vida](https://minhavida.com.br), onde é possível adicionar, remover, alterar e até duplicar um template, além de permitir a criação de templates mais elaborados, bem como patrocinados. Ao realizar esse projeto tive autonomia para tomar decisões sobre o stack de frontend, bem como toda sua implementação. Além disso, trabalhei na implementação do microserviço de gerenciamento de usuários integrado ao Google Accounts. 
 
 ### **Sampleo**
-> [React, ES6, Scss]
+>React, ES6, Scss
 
 É um produto que tem o objetivo de promover marcas parceiras da empresa, onde o cliente pode participar de campanhas e receber amostras em casa para realizar o teste e cumprir tarefas que provem que o produto foi de fato testado, permitindo que pessoas comuns se tornem influenciadores das marcas nas redes sociais. Para este projeto realizamos integrações com redes sociais, bem como a criação do front-end, desde funcionalidades básicas, como toda a parte de gestão de campanhas.
 
 ## **[Crodity](https://www.crodity.com/)**
-> [React, Meteor, Node]
+> React, Meteor, Node
 
   Esta foi a minha primeira experiência trabalhando em uma startup. A ideia inicial do produto era a construção de uma rede social com suas próprias soluções internas de revendas/lojas de produtos, baseadas em pessoas influenciadoras. Pude participar do processo de consolidação de ideias, bem como estar a frente dos processos de front-end, utilizando Javascript, React(ES6), além de participar de pequenas soluções de problemas no back-end com tecnologias como Node e Meteor.
 
