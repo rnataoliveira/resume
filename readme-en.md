@@ -73,25 +73,22 @@ It is a product that aims to promote company brands, where customers can partici
 This was my first experience working on a startup. The initial idea of ​​the product was to build a social network with its own internal reseller / product-based solutions based on influential people. I was able to participate in the process of consolidating ideas, as well as being ahead of the front-end processes using Javascript, React (ES6), and participate in small back-end troubleshooting with technologies such as Node and Meteor.
 
 ## **SKILLS**
-
 Bootstrap  
 CSS 3  
 Git  
-HTML 5 
-ES6   
-jQuery 
-Javascript   
+HTML 5  
+jQuery  
 Materialize  
 Material UI  
-Sass  
-Less  
 React  
 Redux  
+Javascript  
+ES 6
 Docker  
 Asp Net Core  
 C#  
 Node  
-Meteor  
+Meteor   
 Sql  
 Mongo  
 Scrum

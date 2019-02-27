@@ -62,7 +62,6 @@ Este projeto baseou-se nas necessidades da empresa em gerir os templates, que s�
   Esta foi a minha primeira experiência trabalhando em uma startup. A ideia inicial do produto era a construção de uma rede social com suas próprias soluções internas de revendas/lojas de produtos, baseadas em pessoas influenciadoras. Pude participar do processo de consolidação de ideias, bem como estar a frente dos processos de front-end, utilizando Javascript, React(ES6), além de participar de pequenas soluções de problemas no back-end com tecnologias como Node e Meteor.
 
 ## **HABILIDADES**
-
 Bootstrap  
 CSS 3  
 Git  
@@ -72,8 +71,8 @@ Materialize
 Material UI  
 React  
 Redux  
-Javascript
-ES 6, 7  
+Javascript  
+ES 6
 Docker  
 Asp Net Core  
 C#  
