@@ -12,8 +12,8 @@ renatabels@gmail.com
 
 ## **ABOUT**
 
-Joelma Renata Alves de Oliveira, I'm 24 years old, graduated in Systems Analysis and Development at Faculdade Impacta de Tecnologia. I entered the technology market because I believed it would be good to be challenged every day. Since then I have always sought to add knowledge. I have had experience working mainly with front-end, but also with back-end. It was on a day-to-day basis that I was able to put into practice much of the knowledge acquired and also learn new technologies, as well as better understand the workings of IT teams and work methodologies. 
-In addition, I studied photography, advertising and worked with interior design and furniture.
+Joelma Renata Alves de Oliveira, I'm 24 years old, graduated in Systems Analysis and Development at Faculdade Impacta de Tecnologia. I entered the technology market because I believed it would be good to be challenged every day.  It was in my daily life that I was able to put into practice a good part of the acquired knowledge and also to learn new technologies, as well as to better understand the functioning of the IT teams and the agile methodologies. I have had experience working mainly with front-end, stack React/Redux and also in the backend using NodeJs and Asp Net Core.
+In addition, I studied photography, advertising and worked with interior designer and furniture.
 
 ## **EDUCATION**
 
@@ -84,6 +84,8 @@ React
 Redux  
 Javascript  
 ES 6  
+OAuth 2  
+Oidc  
 Docker  
 Asp Net Core  
 C#  
@@ -91,7 +93,7 @@ Node
 Meteor   
 Sql  
 Mongo  
-Scrum
+Scrum  
 
 ## **LANGUAGES**
 
