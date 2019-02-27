@@ -55,15 +55,20 @@ In addition, I studied photography, advertising and worked with interior design 
 
 ## **[Webedia](http://www.webedia.com.br/) - [Minha Vida](https://minhavida.com.br/)**
 
+
+### **Templatator**
+> [React, Redux, ES6, Scss, Bootstrap, Oidc]
+
+This project was based on the needs of the company to manage the templates, which are the content views of the site [Minha Vida] (https://minhavida.com.br), where it is possible to add, remove, change and even duplicate one template, in addition to allowing the creation of more elaborate as well as sponsored templates. When doing this project I had the autonomy to make decisions about the frontend stack, as well as all its implementation. In addition, I worked on the implementation of the user management microservice integrated with Google Accounts.
+
 ### **Sampleo**
+> [React, ES6, Scss]
 
 It is a product that aims to promote company brands, where customers can participate in campaigns and receive samples at home to perform the test and fulfill tasks that prove that the product was actually tested, allowing regular people to become influencers of brands in social networks. For this project we realize integrations with social networks, as well as the creation of the front-end, from basic functionalities, like all part of campaign management.
 
-### **Templatator**
-
-This project was based on the needs of the company to manage the templates, which are the content views of the site [Minha Vida](https://minhavida.com.br/), where it is possible to add, remove, change and even duplicate a template, in addition to allowing the creation of more elaborate as well as sponsored templates. We built this using technologies such as node for the construction of a user API, which allows to manage the logins with Google, besides .Net, language in which the API of templates is made and, the front- end in which I could be Lead, was built on React (ES6), based on a Redux architecture.
 
 ## **[Crodity](https://www.crodity.com/)**
+> [React, Meteor, Node]
 
 This was my first experience working on a startup. The initial idea of ​​the product was to build a social network with its own internal reseller / product-based solutions based on influential people. I was able to participate in the process of consolidating ideas, as well as being ahead of the front-end processes using Javascript, React (ES6), and participate in small back-end troubleshooting with technologies such as Node and Meteor.
 
