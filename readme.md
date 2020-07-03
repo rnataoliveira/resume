@@ -19,7 +19,7 @@ Além disso, já estudei fotografia, publicidade e trabalhei com designer de int
   - Análise e Desenvolvimento de Sistemas (2018)
 
 - **WesBos**  
-  - [Learn Redux (2018)](https://courses.wesbos.com/account/access/5a5f67c3d70b6b62cecad30b)
+  - [Learn Redux](https://courses.wesbos.com/account/access/5a5f67c3d70b6b62cecad30b)
 
 - **Egghead.io**  
   - [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
@@ -30,7 +30,7 @@ Além disso, já estudei fotografia, publicidade e trabalhei com designer de int
 - **PLURALSIGHT**
   - [Introduction to SQL Server](https://github.com/rnataoliveira/resume/blob/master/certificates/CertificateIntroductionToSQLServer.pdf)
   - [SQL Server: Transact-SQL Basic Data Modification](https://github.com/rnataoliveira/resume/blob/master/certificates/SQLServer-Transact-SQL%20Basic%20Data%20Modification.pdf)
-  - [HTTP Fundamentals (2017](https://github.com/rnataoliveira/resume/blob/master/certificates/HTTPFundamentals.pdf)
+  - [HTTP Fundamentals](https://github.com/rnataoliveira/resume/blob/master/certificates/HTTPFundamentals.pdf)
 
 - **SOFTBLUE**
   - [Curso SQL Completo](https://github.com/rnataoliveira/resume/blob/master/certificates/CURSO-SQL.pdf)
@@ -40,7 +40,7 @@ Além disso, já estudei fotografia, publicidade e trabalhei com designer de int
   - Python 
 
 - **ENGLISHTOWN**
-  - Inglês (2016)
+  - Inglês
 
 ## **EXPERIÊNCIA**
 
