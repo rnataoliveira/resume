@@ -51,7 +51,7 @@ Além disso, já estudei fotografia, publicidade e trabalhei com designer de int
 
 Atualmente trabalho tanto com front-end quanto com back-end na manutenção de aplicações de compliance nesta companhia multinacional.
 
-## **Reporting**
+### **Reporting**
 >React, Redux, ES6, Jest, Enzyme
 
 Este projeto foi criado com base em projetos existentes, tendo sua arquitetura remodelada e suas bibliotecas totalmente atualizadas, em vista de que os projetos utilizados atualmente pelos times estão desatualizados. O objetivo é a migração completa para os novos app's onde o design system da empresa seja utilizado na sua versão mais atual.
