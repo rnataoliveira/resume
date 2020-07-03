@@ -28,6 +28,8 @@ Além disso, já estudei fotografia, publicidade e trabalhei com designer de int
   - [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/overview)
 
 - **PLURALSIGHT**
+  - [C# Development Fundamentals]()
+  - [Using React Hooks]()
   - [Introduction to SQL Server](https://github.com/rnataoliveira/resume/blob/master/certificates/CertificateIntroductionToSQLServer.pdf)
   - [SQL Server: Transact-SQL Basic Data Modification](https://github.com/rnataoliveira/resume/blob/master/certificates/SQLServer-Transact-SQL%20Basic%20Data%20Modification.pdf)
   - [HTTP Fundamentals](https://github.com/rnataoliveira/resume/blob/master/certificates/HTTPFundamentals.pdf)
