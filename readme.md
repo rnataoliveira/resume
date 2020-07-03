@@ -8,10 +8,10 @@ renatabels@gmail.com
 [github.com/rnataoliveira](https://github.com/rnataoliveira/)  
 [linkedin.com/in/rnataoliveira](https://www.linkedin.com/in/rnataoliveira/)
 
-<a href="https://rnataoliveira.github.io/resume/">pt</a> | <a href="https://rnataoliveira.github.io/resume/readme-en">en</a>
+<a href="https://rnataoliveira.github.io/resume/">pt</a>
 
 ## **SOBRE**
-Joelma Renata Alves de Oliveira, estou com 24 anos, graduada em Análise e Desenvolvimento de Sistemas pela Faculdade Impacta de Tecnologia. Entrei no mercado de tecnologia por acreditar que seria algo bom ser desafiada todos os dias. Foi no dia-a-dia que pude colocar em prática boa parte dos conhecimentos adquiridos e também aprender tecnologias novas, além de entender melhor o funcionamento das equipes de TI e das metodologias ágeis. Tive experiência trabalhando principalmente com front-end, com o stack React/Redux e também no backend utilizando NodeJs e Asp Net Core. 
+Joelma Renata Alves de Oliveira, estou com 26 anos, graduada em Análise e Desenvolvimento de Sistemas pela Faculdade Impacta de Tecnologia. Entrei no mercado de tecnologia por acreditar que seria algo bom ser desafiada todos os dias. Foi no dia-a-dia que pude colocar em prática boa parte dos conhecimentos adquiridos e também aprender tecnologias novas, além de entender melhor o funcionamento das equipes de TI e das metodologias ágeis. Tive experiência trabalhando principalmente com front-end, com o stack React/Redux e também no backend utilizando NodeJs e .Net Core. 
 Além disso, já estudei fotografia, publicidade e trabalhei com designer de interiores e móveis.
 
 ## **FORMAÇÃO**
@@ -28,21 +28,31 @@ Além disso, já estudei fotografia, publicidade e trabalhei com designer de int
   - [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/overview)
 
 - **PLURALSIGHT**
-  - [Introduction to SQL Server (2016)](https://github.com/rnataoliveira/resume/blob/master/certificates/CertificateIntroductionToSQLServer.pdf)
-  - [SQL Server: Transact-SQL Basic Data Modification (2017)](https://github.com/rnataoliveira/resume/blob/master/certificates/SQLServer-Transact-SQL%20Basic%20Data%20Modification.pdf)
+  - [Introduction to SQL Server](https://github.com/rnataoliveira/resume/blob/master/certificates/CertificateIntroductionToSQLServer.pdf)
+  - [SQL Server: Transact-SQL Basic Data Modification](https://github.com/rnataoliveira/resume/blob/master/certificates/SQLServer-Transact-SQL%20Basic%20Data%20Modification.pdf)
   - [HTTP Fundamentals (2017](https://github.com/rnataoliveira/resume/blob/master/certificates/HTTPFundamentals.pdf)
 
 - **SOFTBLUE**
-  - [Curso SQL Completo (2016)](https://github.com/rnataoliveira/resume/blob/master/certificates/CURSO-SQL.pdf)
+  - [Curso SQL Completo](https://github.com/rnataoliveira/resume/blob/master/certificates/CURSO-SQL.pdf)
 
 - **CODECADEMY**
-  - HTML5/CSS3 (2017)
-  - Python (2016)
+  - HTML5/CSS3 
+  - Python 
 
 - **ENGLISHTOWN**
   - Inglês (2016)
 
 ## **EXPERIÊNCIA**
+
+## **[Sovos](https://sovos.com/)**
+> React, Redux, ES6, .Net Core  
+
+Atualmente trabalho tanto com front-end quanto com back-end na manutenção de aplicações de compliance nesta companhia multinacional.
+
+## **Reporting**
+>React, Redux, ES6, Jest, Enzyme
+
+Este projeto foi criado com base em projetos existentes, tendo sua arquitetura remodelada e suas bibliotecas totalmente atualizadas, em vista de que os projetos utilizados atualmente pelos times estão desatualizados. O objetivo é a migração completa para os novos app's onde o design system da empresa seja utilizado na sua versão mais atual.
 
 ## **[Webedia](http://www.webedia.com.br/) - [Minha Vida](https://minhavida.com.br/)**
 
@@ -62,24 +72,24 @@ Este projeto baseou-se nas necessidades da empresa em gerir os templates, que s�
   Esta foi a minha primeira experiência trabalhando em uma startup. A ideia inicial do produto era a construção de uma rede social com suas próprias soluções internas de revendas/lojas de produtos, baseadas em pessoas influenciadoras. Pude participar do processo de consolidação de ideias, bem como estar a frente dos processos de front-end, utilizando Javascript, React(ES6), além de participar de pequenas soluções de problemas no back-end com tecnologias como Node e Meteor.
 
 ## **HABILIDADES**
-Bootstrap  
 CSS 3  
 Git  
 HTML 5  
-jQuery  
 Materialize  
 Material UI  
 React  
 Redux  
 Javascript  
 ES 6  
+Jest  
+Enzyme  
+jQuery  
 OAuth 2  
 Oidc  
 Docker  
 Asp Net Core  
 C#  
 Node  
-Meteor   
 Sql  
 Mongo  
 Scrum  
@@ -111,15 +121,3 @@ Scrum
 
    Com este desafio iniciei minha aprendizagem com React e Redux. Foi onde tive a primeira oportunidade de conhecer tais tecnologias e implementar uma solução que a partir de um usuário do github pegasse todos os repositórios (stars), permitindo adicionar tags, editá-las e também realizar a busca pelas mesmas.
 
-- [RGB Color Game](https://rnataoliveira.github.io/rgb-color-game/)  
-> jQuery, Html, Css, Javascript
-
-   Este projeto é um jogo que a partir do RGB dado são mostrados cards com as cores para que se possa 'advinhar' qual cor corresponde ao RGB pré determinado. O mesmo foi desenvolvido durante a realização do curso "The Web Developer Bootcamp" da Udemy, com foco em tecnologias web.
-
-* [O Barato Sai Caro](https://github.com/rnataoliveira/o-barato-sai-caro-ltda)  
-> Java
-
-  Este projeto teve como objetivo solucionar problemas encontrados em um supermercado, onde a cada liberação de um caixa uma pessoa da fila deveria ser removida e enviada ao caixa livre com a sua pilha de itens a serem faturados e assim por diante. Para a implementação do mesmo foi utilizada a linguagem de programação Java, utilizando-se de recursos como fila, pilha e lista e modelagem orientada a objetos.
-
----
-[Baixar este arquivo - PDF](https://gitprint.com/rnataoliveira/resume/blob/master/readme.md?download)
