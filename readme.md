@@ -52,7 +52,7 @@ Além disso, já estudei fotografia, publicidade e trabalhei com designer de int
 
 ## **EXPERIÊNCIA**
 
-## **[XPInvestimentos]**  
+## **[XPInvestimentos](https://www.xpi.com.br/)**  
 > React, Next, ES6, TypeScript, Jest, Enzyme, React Testing Library, Ruby, WordPress, PHP  
 
 Com foco principamente em front-end, já tive a oportunidade de trabalhar em diversos segmentos. Pude criar do zero um chatbot, com testes A/B, testes e2e e mais recente com WpVip.  
