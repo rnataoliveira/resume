@@ -1,6 +1,6 @@
 # **Renata Oliveira**
 
-<img src="https://avatars2.githubusercontent.com/u/17580197?s=400&u=4448fcb4f41463ce9ab04befb337411454070a37&v=4" style="border-radius: 50%;" width="100px"/>
+<img src="https://media.licdn.com/dms/image/D4D03AQG2nmhCq3NnaA/profile-displayphoto-shrink_200_200/0/1674506430890?e=1680134400&v=beta&t=gCyjggDZ8BZwx47_EFQ8wCptHFG4TWaZBs5gAt47iPY" style="border-radius: 50%;" width="100px"/>
 
 ## Front-end Developer  
 
@@ -16,7 +16,13 @@ Além disso, já estudei fotografia, publicidade e trabalhei com designer de int
 
 ## **FORMAÇÃO**
 - **FACULDADE IMPACTA DE TECNOLOGIA**
-  - Análise e Desenvolvimento de Sistemas (2018)
+  - Análise e Desenvolvimento de Sistemas (2018)   
+
+- **FGV - Fundação Getúlio Vargas**  
+  - [Gestão Estratégica de Tecnologia da Informação (2022)](https://brasilopenbadge.com.br/pages/badge/04c6c822b7a4a13f73608a8cee353a74)  
+
+- **UDEMY**
+  - [Dominando TypeScript](https://github.com/rnataoliveira/resume/blob/master/certificates/CertificateTypeScript.jpeg)
 
 - **WesBos**  
   - [Learn Redux](https://courses.wesbos.com/account/access/5a5f67c3d70b6b62cecad30b)
@@ -46,10 +52,15 @@ Além disso, já estudei fotografia, publicidade e trabalhei com designer de int
 
 ## **EXPERIÊNCIA**
 
+## **[XPInvestimentos]**  
+> React, Next, ES6, TypeScript, Jest, Enzyme, React Testing Library, Ruby, WordPress, PHP  
+
+Com foco principamente em front-end, já tive a oportunidade de trabalhar em diversos segmentos. Pude criar do zero um chatbot, com testes A/B, testes e2e e mais recente com WpVip.  
+
 ## **[Sovos](https://sovos.com/)**
 > React, Redux, ES6, .Net Core  
 
-Atualmente trabalho tanto com front-end quanto com back-end na manutenção de aplicações de compliance nesta companhia multinacional.
+Tive a oportunidade de trabalhar tanto com front-end quanto com back-end na manutenção de aplicações de compliance nesta companhia multinacional.
 
 ### **Reporting**
 >React, Redux, ES6, Jest, Enzyme
@@ -82,7 +93,12 @@ Material UI
 React  
 Redux  
 Javascript  
+Next
+WordPress
+PHP
 ES 6  
+TypeScript
+GraphQL
 Jest  
 Enzyme  
 jQuery  
@@ -99,7 +115,8 @@ Scrum
 ## **IDIOMAS**
 
 - Português - Nativo
-- Inglês - Intermediário
+- Inglês - Intermediário  
+- Francês - Aprendendo
 
 ## **OUTROS PROJETOS**
 
