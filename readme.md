@@ -8,7 +8,8 @@ renatabels@gmail.com
 [github.com/rnataoliveira](https://github.com/rnataoliveira/)  
 [linkedin.com/in/rnataoliveira](https://www.linkedin.com/in/rnataoliveira/)
 
-<a href="https://rnataoliveira.github.io/resume/">pt</a>
+<a href="https://rnataoliveira.github.io/resume/">pt</a> | <a href="https://rnataoliveira.github.io/resume/readme-en">en</a>
+
 
 ## **SOBRE**
 Joelma Renata Alves de Oliveira, estou com 28 anos, graduada em Análise e Desenvolvimento de Sistemas pela Faculdade Impacta de Tecnologia. Entrei no mercado de tecnologia por acreditar que seria algo bom ser desafiada todos os dias. Foi no dia-a-dia que pude colocar em prática boa parte dos conhecimentos adquiridos e também aprender tecnologias novas, além de entender melhor o funcionamento das equipes de TI e das metodologias ágeis. Tive experiência trabalhando principalmente com front-end, com o stack React/Redux e também no backend utilizando NodeJs e .Net Core. 
@@ -113,7 +114,6 @@ Mongo
 Scrum  
 
 ## **IDIOMAS**
-
 - Português - Nativo
 - Inglês - Intermediário  
 - Francês - Aprendendo
@@ -139,6 +139,3 @@ Scrum
 > React, ES 6, Redux
 
    Com este desafio iniciei minha aprendizagem com React e Redux. Foi onde tive a primeira oportunidade de conhecer tais tecnologias e implementar uma solução que a partir de um usuário do github pegasse todos os repositórios (stars), permitindo adicionar tags, editá-las e também realizar a busca pelas mesmas.  
-
------
-[Fazer o download em pdf](https://gitprint.com/rnataoliveira/resume/blob/master/readme.md?download)
