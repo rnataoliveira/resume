@@ -138,5 +138,7 @@ Scrum
 * [Brainn Challenge](https://github.com/rnataoliveira/challenge/tree/master/resolution) 
 > React, ES 6, Redux
 
-   Com este desafio iniciei minha aprendizagem com React e Redux. Foi onde tive a primeira oportunidade de conhecer tais tecnologias e implementar uma solução que a partir de um usuário do github pegasse todos os repositórios (stars), permitindo adicionar tags, editá-las e também realizar a busca pelas mesmas.
+   Com este desafio iniciei minha aprendizagem com React e Redux. Foi onde tive a primeira oportunidade de conhecer tais tecnologias e implementar uma solução que a partir de um usuário do github pegasse todos os repositórios (stars), permitindo adicionar tags, editá-las e também realizar a busca pelas mesmas.  
 
+-----
+[Fazer o download em pdf](https://gitprint.com/rnataoliveira/resume/blob/master/readme.md?download)
