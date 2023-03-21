@@ -11,7 +11,7 @@ renatabels@gmail.com
 <a href="https://rnataoliveira.github.io/resume/">pt</a>
 
 ## **SOBRE**
-Joelma Renata Alves de Oliveira, estou com 26 anos, graduada em Análise e Desenvolvimento de Sistemas pela Faculdade Impacta de Tecnologia. Entrei no mercado de tecnologia por acreditar que seria algo bom ser desafiada todos os dias. Foi no dia-a-dia que pude colocar em prática boa parte dos conhecimentos adquiridos e também aprender tecnologias novas, além de entender melhor o funcionamento das equipes de TI e das metodologias ágeis. Tive experiência trabalhando principalmente com front-end, com o stack React/Redux e também no backend utilizando NodeJs e .Net Core. 
+Joelma Renata Alves de Oliveira, estou com 28 anos, graduada em Análise e Desenvolvimento de Sistemas pela Faculdade Impacta de Tecnologia. Entrei no mercado de tecnologia por acreditar que seria algo bom ser desafiada todos os dias. Foi no dia-a-dia que pude colocar em prática boa parte dos conhecimentos adquiridos e também aprender tecnologias novas, além de entender melhor o funcionamento das equipes de TI e das metodologias ágeis. Tive experiência trabalhando principalmente com front-end, com o stack React/Redux e também no backend utilizando NodeJs e .Net Core. 
 Além disso, já estudei fotografia, publicidade e trabalhei com designer de interiores e móveis.
 
 ## **FORMAÇÃO**
@@ -55,7 +55,7 @@ Além disso, já estudei fotografia, publicidade e trabalhei com designer de int
 ## **[XPInvestimentos](https://www.xpi.com.br/)**  
 > React, Next, ES6, TypeScript, Jest, Enzyme, React Testing Library, Ruby, WordPress, PHP  
 
-Com foco principamente em front-end, já tive a oportunidade de trabalhar em diversos segmentos. Pude criar do zero um chatbot, com testes A/B, testes e2e e mais recente com WpVip.  
+Com foco principalmente em front-end, já tive a oportunidade de trabalhar em diversos segmentos. Pude criar do zero um chatbot, com testes A/B, testes e2e e mais recente com WpVip.  
 
 ## **[Sovos](https://sovos.com/)**
 > React, Redux, ES6, .Net Core  
