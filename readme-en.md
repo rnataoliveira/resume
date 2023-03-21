@@ -86,4 +86,4 @@ Scrum
 
 ## **EXPERIENCE**
 
-I would be glad to talk about it and also it can be checked on my [linkedin]([linkedin.com/in/rnataoliveira](https://www.linkedin.com/in/rnataoliveira/)) account.
+I would be glad to talk about it and also it can be checked on my [linkedin](https://www.linkedin.com/in/rnataoliveira/) account.
