@@ -79,7 +79,7 @@ Sql
 Mongo  
 Scrum  
 
-## **Language**
+## **LANGUAGES**
 - Portuguese - Native
 - English - Middle Level  
 - French - Exploring  
