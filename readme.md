@@ -53,12 +53,15 @@ Além disso, já estudei fotografia, publicidade e trabalhei com designer de int
 
 ## **EXPERIÊNCIA**
 
-## **[XPInvestimentos](https://www.xpi.com.br/)**  
+## **[XPInvestimentos](https://www.xpi.com.br/)**
+- **2021 - Present**  
+
 > React, Next, ES6, TypeScript, Jest, Enzyme, React Testing Library, Ruby, WordPress, PHP  
 
 Com foco principalmente em front-end, já tive a oportunidade de trabalhar em diversos segmentos. Pude criar do zero um chatbot, com testes A/B, testes e2e e mais recente com WpVip.  
 
-## **[Sovos](https://sovos.com/)**
+## **[Sovos](https://sovos.com/)**  
+- **2019 - 2021**  
 > React, Redux, ES6, .Net Core  
 
 Tive a oportunidade de trabalhar tanto com front-end quanto com back-end na manutenção de aplicações de compliance nesta companhia multinacional.
@@ -66,24 +69,25 @@ Tive a oportunidade de trabalhar tanto com front-end quanto com back-end na manu
 ### **Reporting**
 >React, Redux, ES6, Jest, Enzyme
 
-Este projeto foi criado com base em projetos existentes, tendo sua arquitetura remodelada e suas bibliotecas totalmente atualizadas, em vista de que os projetos utilizados atualmente pelos times estão desatualizados. O objetivo é a migração completa para os novos app's onde o design system da empresa seja utilizado na sua versão mais atual.
+Este projeto foi criado com base em projetos existentes, tendo sua arquitetura remodelada e suas bibliotecas totalmente atualizadas, em vista de que os projetos estavam desatualizados. O objetivo foi a migração completa para os novos app's onde o design system da empresa fosse utilizado na sua versão mais atual.
 
 ## **[Webedia](http://www.webedia.com.br/) - [Minha Vida](https://minhavida.com.br/)**
-
+- **2018 - 2019**  
 ### **Templatator**
 > React, Redux, ES6, Scss, Bootstrap, Oidc
 
-Este projeto baseou-se nas necessidades da empresa em gerir os templates, que são as views de conteúdos do site [Minha Vida](https://minhavida.com.br), onde é possível adicionar, remover, alterar e até duplicar um template, além de permitir a criação de templates mais elaborados, bem como patrocinados. Ao realizar esse projeto tive autonomia para tomar decisões sobre o stack de frontend, bem como toda sua implementação. Além disso, trabalhei na implementação do microserviço de gerenciamento de usuários integrado ao Google Accounts. 
+Este projeto baseou-se nas necessidades da empresa em gerir os templates, que eram as views de conteúdos do site [Minha Vida](https://minhavida.com.br), onde era possível adicionar, remover, alterar e até duplicar um template, além de permitir a criação de templates mais elaborados, bem como patrocinados. Ao realizar esse projeto tive autonomia para tomar decisões sobre o stack de front-end, bem como toda sua implementação. Além disso, trabalhei na implementação do microserviço de gerenciamento de usuários integrado ao Google Accounts. 
 
-### **Sampleo**
+### **Sampleo**  
 >React, ES6, Scss
 
-É um produto que tem o objetivo de promover marcas parceiras da empresa, onde o cliente pode participar de campanhas e receber amostras em casa para realizar o teste e cumprir tarefas que provem que o produto foi de fato testado, permitindo que pessoas comuns se tornem influenciadores das marcas nas redes sociais. Para este projeto realizamos integrações com redes sociais, bem como a criação do front-end, desde funcionalidades básicas, como toda a parte de gestão de campanhas.
+Era um produto que tinha como objetivo promover marcas parceiras da empresa, onde o cliente pudesse participar de campanhas e receber amostras em casa para realizar o teste e cumprir tarefas que provessem que o produto de fato fosse testado no mundo real, permitindo que pessoas comuns se tornassem influenciadoras das marcas nas redes sociais. Para este projeto realizamos integrações com redes sociais, bem como a criação do front-end, desde funcionalidades básicas, como toda a parte de gestão de campanhas.
 
 ## **[Crodity](https://www.crodity.com/)**
+- **2018**  
 > React, Meteor, Node
 
-  Esta foi a minha primeira experiência trabalhando em uma startup. A ideia inicial do produto era a construção de uma rede social com suas próprias soluções internas de revendas/lojas de produtos, baseadas em pessoas influenciadoras. Pude participar do processo de consolidação de ideias, bem como estar a frente dos processos de front-end, utilizando Javascript, React(ES6), além de participar de pequenas soluções de problemas no back-end com tecnologias como Node e Meteor.
+  Esta foi a minha primeira experiência trabalhando em uma startup e como desenvolvedora de software. A ideia inicial do produto era a construção de uma rede social com suas próprias soluções internas de revendas/lojas de produtos, baseadas em pessoas influenciadoras. Pude participar do processo de consolidação de ideias, bem como estar a frente dos processos de front-end, utilizando Javascript, React(ES6), além de participar de pequenas soluções de problemas no back-end com tecnologias como Node e Meteor.
 
 ## **HABILIDADES**
 CSS 3  
@@ -119,7 +123,7 @@ Scrum
 - Francês - Aprendendo
 
 ## **OUTROS PROJETOS**
-
+**Faculdade**  
 - Carteira de Vacinação - Minha Vida  
 > React, ES 6, Bootstrap, C#, Asp Net Core, Sql Server  
 
