@@ -11,7 +11,7 @@ renatabels@gmail.com
 <a href="https://rnataoliveira.github.io/resume/">pt</a> | <a href="https://rnataoliveira.github.io/resume/readme-en">en</a>
 
 ## **ABOUT**
-My full name is Joelma Renata Alves de Oliveira, I'm 28 years old, graduated in Systems Analysis and Development from Faculdade Impacta de Tecnologia. I entered the technology market believing that it would be a good thing to be challenged every day. It was on a day-to-day basis that I was able to put into practice much of the knowledge acquired and also learn new technologies, in addition to better understanding how IT teams and agile methodologies work. I have most of my experience working with front-end, with the React, Redux, Next and Jest stacks. Also I had experience in the backend working with NodeJs and .Net Core and PHP.
+My full name is Joelma Renata Alves de Oliveira, I'm 28 years old, graduated in Systems Analysis and Development from Faculdade Impacta de Tecnologia. I entered the technology market believing that it would be a good thing to be challenged every day. It was on a day-to-day basis that I was able to put into practice much of the knowledge acquired and also learn new technologies, in addition to better understanding how IT teams and agile methodologies work. I have most of my experience working with front-end, with React, Redux, Next and Jest stacks. Also I had experience in the backend working with NodeJs and .Net Core and PHP.
 In addition, I have studied photography in the past, advertising and worked with interior and furniture designer. I'm also trying to learn french.  
 
 ## **KNOWLEDGE PATH**
