@@ -72,7 +72,9 @@ Tive a oportunidade de trabalhar tanto com front-end quanto com back-end na manu
 Este projeto foi criado com base em projetos existentes, tendo sua arquitetura remodelada e suas bibliotecas totalmente atualizadas, em vista de que os projetos estavam desatualizados. O objetivo foi a migração completa para os novos app's onde o design system da empresa fosse utilizado na sua versão mais atual.
 
 ## **[Webedia](http://www.webedia.com.br/) - [Minha Vida](https://minhavida.com.br/)**
-- **2018 - 2019**  
+- **2018 - 2019**    
+
+
 ### **Templatator**
 > React, Redux, ES6, Scss, Bootstrap, Oidc
 
