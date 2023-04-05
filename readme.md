@@ -1,6 +1,6 @@
 # **Renata Oliveira**
 
-<img src="https://media.licdn.com/dms/image/D4D03AQG2nmhCq3NnaA/profile-displayphoto-shrink_200_200/0/1674506430890?e=1680134400&v=beta&t=gCyjggDZ8BZwx47_EFQ8wCptHFG4TWaZBs5gAt47iPY" style="border-radius: 50%;" width="100px"/>
+<img src="https://media.licdn.com/dms/image/D4D03AQG2nmhCq3NnaA/profile-displayphoto-shrink_800_800/0/1674506430890?e=1685577600&v=beta&t=TZLUZRsUTL3WVA40khY66vI0R3xrzNBm2sWcHt6EZcM" style="border-radius: 50%;" width="100px"/>
 
 ## Front-end Developer  
 
