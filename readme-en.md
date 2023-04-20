@@ -2,7 +2,7 @@
 
 <img src="https://media.licdn.com/dms/image/D4D03AQG2nmhCq3NnaA/profile-displayphoto-shrink_800_800/0/1674506430890?e=1685577600&v=beta&t=TZLUZRsUTL3WVA40khY66vI0R3xrzNBm2sWcHt6EZcM" style="border-radius: 50%;" width="100px"/>
 
-## Front-end Developer  
+## Front-end Engineer  
 
 renatabels@gmail.com  
 [github.com/rnataoliveira](https://github.com/rnataoliveira/)  
