@@ -107,6 +107,7 @@ ES 6
 TypeScript
 GraphQL
 Jest  
+E2E(Cypress)  
 Enzyme  
 jQuery  
 OAuth 2  
