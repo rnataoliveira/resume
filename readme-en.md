@@ -50,25 +50,26 @@ In addition, I have studied photography in the past, advertising and worked with
 - **ENGLISHTOWN**
   - English
 
-  ## **SKILLS**
-  CSS 3  
-Git  
-HTML 5  
+## **SKILLS**
+CSS 3  
+SCSS  
+HTML 5   
 Materialize  
 Material UI  
+Git  
 React  
 Redux  
 Javascript  
-Next
-WordPress
-PHP
-ES 6  
-TypeScript
-GraphQL
+Next  
+WordPress  
+PHP  
+ES 6   
+TypeScript  
+GraphQL  
 Jest  
-Enzyme  
+Enzyme    
 jQuery  
-OAuth 2  
+OAuth 2   
 Oidc  
 Docker  
 Asp Net Core  
@@ -80,7 +81,7 @@ Scrum
 
 ## **LANGUAGES**
 - Portuguese - Native
-- English - Middle Level  
+- English - Advanced Level  
 - French - Exploring  
 
 ## **EXPERIENCES**
