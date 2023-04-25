@@ -90,14 +90,14 @@ Scrum
 I would be glad to talk about it and also it can be checked on my [linkedin](https://www.linkedin.com/in/rnataoliveira/) account.
 
 ## **[XPInvestimentos](https://www.xpi.com.br/)**  
-- **2021 - Present**  
+- **2021, March - Present**  
 
 > React, Next, ES6, TypeScript, Jest, Enzyme, React Testing Library, Ruby, WordPress, PHP  
 
 Focusing mainly on the front-end, I've had the opportunity to work in several segments. I was able to create a chatbot from scratch, with A/B tests, e2e tests and more recently I work with Wordpress.  
 
 ## **[Sovos](https://sovos.com/)**  
-- **2019 - 2021**  
+- **2019, April - 2021, March**  
 > React, Redux, ES6, .Net Core  
 
 I had the opportunity to work with both front-end and back-end in maintaining compliance applications in this multinational company.  
@@ -108,7 +108,7 @@ I had the opportunity to work with both front-end and back-end in maintaining co
 This project was created based on existing projects, having its architecture remodeled and its libraries completely updated, considering that the projects were outdated. The objective was the complete migration to the new apps where the company's design system was used in its most current version.  
 
 ## **[Webedia](http://www.webedia.com.br/) - [Minha Vida](https://minhavida.com.br/)**  
-- **2018 - 2019**  
+- **2018, July - 2019, April**  
 
 ### **Templatator**
 > React, Redux, ES6, Scss, Bootstrap, Oidc  
@@ -122,7 +122,7 @@ This project was based on the company's needs to manage the templates, which wer
 It was a product that aimed to promote the company's partner brands, where the customer could participate in campaigns and receive samples at home to carry out the test and fulfill tasks that would prove that the product was actually tested in the real world, allowing ordinary people to become influencers of brands on social networks. For this project, we carried out integrations with social networks, as well as the creation of the front-end, from basic functionalities, such as the entire campaign management part.  
 
 ## **[Crodity](https://www.crodity.com/)**  
-- **2018**  
+- **2018, January - June**  
 > React, Meteor, Node  
 
 This was my first experience working in a startup and as a software developer. The initial idea of ​​the product was to build a social network with its own internal solutions for resellers/product stores, based on influential people. I was able to participate in the process of consolidating ideas, as well as being at the forefront of front-end processes, using Javascript, React(ES6), in addition to participating in small back-end problem solutions with technologies such as Node and Meteor.  
