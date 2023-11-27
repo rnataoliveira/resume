@@ -2,11 +2,9 @@
 
 *Senior Software Engineer*
 
-+55 11 97265-7270 | [email](renatabels@gmail.com) | [linkedin](https://www.linkedin.com/in/rnataoliveira/)
- | [github](https://github.com/rnataoliveira/)
-
----
-
++55 11 97265-7270  
+[email](renatabels@gmail.com) | [linkedin](https://www.linkedin.com/in/rnataoliveira/)
+ | [github](https://github.com/rnataoliveira/)  
 
 Sou um entusiasta de tecnologia fora do comum que acabou entrando na programação de forma inesperada. No começo, programar não era minha ambição, mas por destino, acabei me envolvendo e, surpreendentemente, me apaixonei pela área. Acredito que é uma das poucas que me permite trabalhar com todas as outras.
 Nos últimos 5 ou 6 anos, tenho me aventurado entre o front-end e o back-end, desempenhando diversos papéis na codificação, testes e gestão situacional. Tive a sorte de participar de novos projetos, renovar designs ultrapassados e cuidar de sistemas mais antigos, além de trabalhar com foco em performance web. No entanto, vejo essa jornada apenas como o começo do que posso alcançar.
@@ -36,11 +34,11 @@ Atualmente estou me aventurando na educação voltada para tecnologia.
 
 **Habilidades:**
 
-- Linguagens de programação: JavaScript, C#
+- **Linguagens de programação:** JavaScript, C#
 
-- Frameworks & Tecnologias: React.js, Redux, ES6, Jest, Enzyme, .Net, TypeScript, Next
+- **Frameworks & Tecnologias:** React.js, Redux, ES6, Jest, Enzyme, .Net, TypeScript, Next
 
-- Outros: HTML/HTML5, CSS, CSS3, Rest API's, GraphQL, Git, WordPress, Oauth, Oidc, E2E com Ruby
+- **Outros:** HTML/HTML5, CSS, CSS3, Rest API's, GraphQL, Git, WordPress, Oauth, Oidc, E2E com Ruby
 
 ---- 
 
