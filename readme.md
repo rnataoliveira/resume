@@ -59,20 +59,22 @@ Senac, 2014
 **Outros cursos:**  
 
 - **Performance Web I: otimizando o front-end**  
-Alura 
----
+Alura  
+---  
 
 - **Application Security Training (Modelagem de Ameaças, Web, API e Mobile)**  
-Conviso Application Security
----
+Conviso Application Security  
+---  
+
 - **Dominando TypeScript**  
-- **The Web Developer Bootcamp**
-Udemy
----
+- **The Web Developer Bootcamp**  
+Udemy  
+
+---  
 
 - **Getting Started with Redux**  
 Egghead.io  
----
+---  
 
 - **C# Development Fundamentals**  
 - **Using React Hooks**  
@@ -80,9 +82,7 @@ Egghead.io
 - **SQL Server: Transact-SQL Basic Data Modification**  
 - **HTTP Fundamentals**  
 Pluralsight 
-----
-
-
+----  
 
 **Idiomas**  
 Português (Brasil) - Nativo  
