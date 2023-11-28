@@ -60,10 +60,12 @@ Senac, 2014
 
 - **Performance Web I: otimizando o front-end**  
 Alura  
+
 ---  
 
 - **Application Security Training (Modelagem de Ameaças, Web, API e Mobile)**  
 Conviso Application Security  
+
 ---  
 
 - **Dominando TypeScript**  
@@ -74,6 +76,7 @@ Udemy
 
 - **Getting Started with Redux**  
 Egghead.io  
+
 ---  
 
 - **C# Development Fundamentals**  
@@ -82,7 +85,8 @@ Egghead.io
 - **SQL Server: Transact-SQL Basic Data Modification**  
 - **HTTP Fundamentals**  
 Pluralsight 
-----  
+
+---  
 
 **Idiomas**  
 Português (Brasil) - Nativo  
