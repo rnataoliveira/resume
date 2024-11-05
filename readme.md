@@ -6,11 +6,12 @@
 [email](renatabels@gmail.com) | [linkedin](https://www.linkedin.com/in/rnataoliveira/)
  | [github](https://github.com/rnataoliveira/)  
 
-Sou um entusiasta de tecnologia fora do comum que acabou entrando na programação de forma inesperada. No começo, programar não era minha ambição, mas por destino, acabei me envolvendo e, surpreendentemente, me apaixonei pela área. Acredito que é uma das poucas que me permite trabalhar com todas as outras.
-Nos últimos 5 ou 6 anos, tenho me aventurado entre o front-end e o back-end, desempenhando diversos papéis na codificação, testes e gestão situacional. Tive a sorte de participar de novos projetos, renovar designs ultrapassados e cuidar de sistemas mais antigos, além de trabalhar com foco em performance web. No entanto, vejo essa jornada apenas como o começo do que posso alcançar.
-Não sou de ficar confortável na mesmice; eu gosto de novidades, por mais que às vezes sejam dolorosas. Me empolgo com mudanças positivas que trazem resultados melhores. A emoção de encarar o desconhecido me impulsiona, embora também valorize oportunidades que se encaixem com minhas aspirações pessoais e de carreira.
-Além da tecnologia, encontro alegria em manter a forma, mergulhar em livros e estudar algum idioma sempre que tenho um tempo.
-Atualmente estou me aventurando na educação voltada para tecnologia.  
+Como Engenheira de Front-End com paixão por tecnologia e inovação, tenho passado os últimos 7 - 8 anos me aprofundando no desenvolvimento tanto front-end quanto back-end, em atividades de codificação, testes e tudo mais envolvido no processo. Minha jornada na tecnologia não começou com um amor por código, mas certamente se transformou em um. Adoro enfrentar novos desafios e acredito em sair da zona de conforto para promover mudanças significativas e entregar resultados melhores.
+
+Minha carreira foi marcada por uma combinação de construção de novos projetos, modernização de designs desatualizados e manutenção de sistemas legados. No entanto, acredito que este é apenas o começo. Estou sempre buscando aprender e crescer, especialmente em áreas que estejam alinhadas com minhas aspirações de carreira e valores pessoais. Atualmente, estou focada em expandir minhas habilidades em gestão para aumentar ainda mais meu impacto no mundo da tecnologia.
+
+Além das telas, sou apaixonada por velejar, encontrando paz e aventura no mar. Também gosto de manter minha mente e corpo ativos através de treinos regulares, leitura e aprendizado de novos idiomas. Recentemente, escrevi um ebook sobre crescimento de carreira, compartilhando insights e experiências da minha jornada na tecnologia, com o objetivo de inspirar outras pessoas a tomarem as rédeas de suas carreiras com confiança e clareza.
+
 
 ----
 **Experiências:**
@@ -57,6 +58,8 @@ Faculdade Impacta de Tecnologia, 2018
 Senac, 2014
 
 **Outros cursos:**  
+- **From Engineer to Technical Manager**  
+Udemy  
 
 - **Performance Web I: otimizando o front-end**  
 Alura  
