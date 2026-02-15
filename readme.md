@@ -95,3 +95,32 @@ Pluralsight
 Português (Brasil) - Nativo  
 Inglês - Avançado  
 Francês - Básico  
+---
+
+## Project: Resume site (React + Vite)
+
+This repository now includes a presentational resume website built with **React + Vite + TypeScript** and styled with **Tailwind CSS**. The site is intended as a professional front card and portfolio for Renata Oliveira.
+
+Quick start (local):
+1. Install dependencies: `npm ci`
+2. Start dev server: `npm run dev`
+3. Build for production: `npm run build`
+
+Form (contact):
+- The contact form uses **Formspree**. Configure the endpoint in `src/components/ContactForm.tsx` (already set to your form ID).
+
+Where to edit content:
+- `src/App.tsx` — hero copy, experience and education
+- `src/components/Skills.tsx` — skills & languages
+- `src/components/Projects.tsx` — recent projects
+- `src/components/TechMarquee.tsx` — tech icons
+- `src/components/ContactForm.tsx` — form fields / endpoint
+
+Deployment:
+- GitHub Actions will build and deploy to **GitHub Pages** on push to `main` (see `.github/workflows/deploy.yml`).
+
+Details & notes:
+- Light palette uses soft, finance-grade colors and a single accent color (Soft Indigo). Change `src/styles/index.css` variables to update the theme.
+- Company and education logos are included as external links or data URIs; I can download and inline them if you prefer.
+
+See `SITE_README.md` for more site-specific instructions.

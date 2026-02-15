@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* page-level helpers */
+:root {
+  --bg-main: #F9FAFB;
+  --bg-card: #FFFFFF;
+  --text-primary: #111827;
+  --text-secondary: #6B7280;
+  --border-subtle: #E5E7EB;
+  --accent: #4F46E5;
+  --accent-hover: #4338CA;
+  --accent-contrast: #FFFFFF;
+}
+
+body {
+  background-color: var(--bg-main);
+  color: var(--text-primary);
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.app-root { background-color: var(--bg-main); color: var(--text-primary); }
+.card { background-color: var(--bg-card); color: var(--text-primary); border-color: var(--border-subtle); }
+
+/* accent utilities (use sparingly) */
+.accent-bg { background-color: var(--accent); color: var(--accent-contrast); }
+.accent-bg:hover { background-color: var(--accent-hover); }
+.accent-text { color: var(--accent); }
+.accent-text:hover { color: var(--accent-hover); }
+.accent-border { border-color: var(--accent); }
+
+/* marquee */
+.marquee { overflow: hidden; }
+.marquee-track { display: flex; gap: 2rem; align-items: center; animation: marquee 18s linear infinite; }
+.marquee-track:hover { animation-play-state: paused; }
+@keyframes marquee { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+.icon { width: 36px; height: 36px; }
