@@ -26,7 +26,7 @@ Files to edit for content/style:
 - `src/components/ContactForm.tsx` — update form endpoint / fields
 
 Deploy:
-- Push to `main` branch — the GitHub Actions workflow will build and deploy to Pages automatically.
+- Push to the default branch (`main` or `master`) — the GitHub Actions workflow will build and deploy to Pages automatically.
 
 Want changes?
 - I can: add dark mode, a downloadable PDF resume, custom domain, SEO meta tags, or deploy to a different branch/provider.

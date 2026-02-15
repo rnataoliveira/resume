@@ -117,7 +117,7 @@ Where to edit content:
 - `src/components/ContactForm.tsx` — form fields / endpoint
 
 Deployment:
-- GitHub Actions will build and deploy to **GitHub Pages** on push to `main` (see `.github/workflows/deploy.yml`).
+- GitHub Actions will build and deploy to **GitHub Pages** on push to the repository's default branch (`main` or `master`) (see `.github/workflows/deploy.yml`).
 
 Details & notes:
 - Light palette uses soft, finance-grade colors and a single accent color (Soft Indigo). Change `src/styles/index.css` variables to update the theme.
