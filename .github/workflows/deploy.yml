@@ -23,21 +23,23 @@ jobs:
       - name: Build
         run: npm run build
 
-      - name: Copy build to repository root
-        run: |
-          # copy production build into the repository working tree (overlay)
-          rsync -av --exclude='.git' dist/ .
-
-      - name: Commit and push build to master (root)
+      - name: Deploy built site to master (root)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # copy all files from dist/ into the repository root, keeping .git intact
+          cp -r dist/* .
+          
+          # stage all changes
           git add -A
-          if git diff --cached --quiet; then
-            echo "No changes to publish"
-          else
-            git commit -m "chore(pages): publish site to master (root) [skip ci]"
+          
+          # commit only if there are changes; [skip ci] prevents re-trigger
+          if ! git diff --cached --quiet; then
+            git commit -m "chore(pages): publish built site [skip ci]"
             git push origin HEAD:master
+          else
+            echo "No changes to publish"
           fi
