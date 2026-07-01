@@ -10,6 +10,24 @@ type Project = {
 
 const projects: Project[] = [
   {
+    title: "tetris",
+    description: {
+      en: "Classic Tetris game built from scratch.",
+      pt: "Jogo clássico de Tetris construído do zero.",
+    },
+    url: "https://rnataoliveira.github.io/tetris/",
+    tags: ["JavaScript"],
+  },
+  {
+    title: "sudoku",
+    description: {
+      en: "Sudoku game with puzzle generation and validation.",
+      pt: "Jogo de Sudoku com geração de puzzles e validação.",
+    },
+    url: "https://rnataoliveira.github.io/sudoku/",
+    tags: ["JavaScript"],
+  },
+  {
     title: "cv-generator",
     description: {
       en: "Resume/CV generator — customizable templates and PDF export.",

@@ -17,9 +17,14 @@ const experiences: Experience[] = [
     {
         company: "XP Investimentos",
         role: "Senior Software Engineer",
-        period: "Feb 2022 — present",
+        period: "Mar 2021 — present",
         location: "São Paulo, BR · Híbrida",
-        bullets: ["Software development, GraphQL, scalable financial products, mentoring"],
+        bullets: [
+            "Technical leadership of strategic frontend initiatives, including creation of an investment simulators monorepo adopted across new products",
+            "Defined architecture and engineering standards used by multiple teams",
+            "Introduced observability with Dynatrace/DQL and promoted WCAG accessibility and E2E automated testing",
+            "Mentored engineers, independently conducted technical interviews (Frontend & Mobile), and built standardized interview frameworks adopted by other interviewers",
+        ],
         logo: "https://upload.wikimedia.org/wikipedia/pt/0/0b/XP_Investimentos_logo.png",
     },
     {
@@ -47,6 +52,12 @@ type Education = {
 };
 
 const education: Education[] = [
+    {
+        institution: "FIAP",
+        program: "Pós-Graduação em Arquitetura de Software",
+        period: "2024 — present",
+        note: "In progress",
+    },
     {
         institution: "Faculdade Impacta Tecnologia",
         program: "Análise e desenvolvimento de sistemas",
@@ -81,7 +92,7 @@ export default function App(): JSX.Element {
             skillsHeading: 'Skills & Languages',
             techHeader: 'Tech I use',
             contactHeading: 'Contact',
-            bio: 'Senior Software Engineer with 8+ years of experience across frontend, backend, and mobile development. Currently at XP Investimentos building scalable financial products and growth initiatives. Strong advocate for testing, documentation, and sustainable systems. Actively exploring AI initiatives to enhance products and developer experience. I enjoy mentoring and knowledge sharing. Always learning. Always building.',
+            bio: 'Senior Software Engineer with 9+ years of experience designing and delivering large-scale digital products in fintech. Expertise in TypeScript, React, and Frontend Architecture. Beyond coding, I lead technical initiatives, mentor engineers, conduct technical interviews, and collaborate across Product, Design, and Backend to solve complex challenges. Currently pursuing a Postgraduate Degree in Software Architecture at FIAP.',
             footer: 'Built with React + Vite • Hosted on GitHub Pages',
         },
         pt: {
@@ -92,7 +103,7 @@ export default function App(): JSX.Element {
             skillsHeading: 'Competências & Idiomas',
             techHeader: 'Tecnologias que uso',
             contactHeading: 'Contato',
-            bio: 'Engenheira de Software Sênior com 8+ anos de experiência em frontend, backend e mobile. Atualmente na XP Investimentos, construindo produtos financeiros escaláveis e iniciativas de crescimento. Forte defensora de testes, documentação e sistemas sustentáveis. Explorando iniciativas de IA para melhorar produtos e experiência de desenvolvedores. Gosto de mentorias e compartilhar conhecimento. Sempre aprendendo. Sempre construindo.',
+            bio: 'Engenheira de Software Sênior com 9+ anos de experiência projetando e entregando produtos digitais de alta escala em fintech. Especialista em TypeScript, React e Arquitetura Frontend. Além do código, lidero iniciativas técnicas, mentoro engenheiras e engenheiros, conduzo entrevistas técnicas e colaboro com Produto, Design e Backend para resolver desafios complexos. Atualmente cursando Pós-Graduação em Arquitetura de Software na FIAP.',
             footer: 'Criado com React + Vite • Hospedado no GitHub Pages',
         },
     } as const;
