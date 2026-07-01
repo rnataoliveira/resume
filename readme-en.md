@@ -121,13 +121,20 @@ Faculdade Impacta de Tecnologia — *2018*
 
 **Architecture & Engineering:** Frontend Architecture, Monorepo, Clean Architecture, Design System, Micro-frontends
 
-**Observability & Quality:** Dynatrace, DQL, E2E Testing, Accessibility (WCAG), Automated Testing
+**Observability & Quality:** Dynatrace, DQL, Playwright, Cypress, E2E Testing, Accessibility (WCAG), Automated Testing
 
 **APIs & Integrations:** REST API, GraphQL, OAuth 2.0, OIDC
 
 **Tooling:** Git, Docker, WordPress, Scrum/Agile
 
 **Backend (experience):** Node.js, .Net Core, C#, SQL, MongoDB
+
+---
+
+## Personal Projects
+
+- **[Tetris](https://rnataoliveira.github.io/tetris/)** — Classic Tetris implementation in vanilla JavaScript
+- **[Sudoku](https://rnataoliveira.github.io/sudoku/)** — Sudoku game with puzzle generation and validation
 
 ---
 
