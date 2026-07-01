@@ -1,126 +1,151 @@
-**Renata Oliveira**
+# Renata Oliveira
 
-*Senior Software Engineer*
+**Senior Software Engineer | Arquitetura Frontend | Liderança Técnica**
 
-+55 11 97265-7270  
-[email](renatabels@gmail.com) | [linkedin](https://www.linkedin.com/in/rnataoliveira/)
- | [github](https://github.com/rnataoliveira/)  
+renatabels@gmail.com
+[linkedin.com/in/rnataoliveira](https://www.linkedin.com/in/rnataoliveira/) | [github.com/rnataoliveira](https://github.com/rnataoliveira/)
 
-Como Engenheira de Front-End com paixão por tecnologia e inovação, tenho passado os últimos 7 - 8 anos me aprofundando no desenvolvimento tanto front-end quanto back-end, em atividades de codificação, testes e tudo mais envolvido no processo. Minha jornada na tecnologia não começou com um amor por código, mas certamente se transformou em um. Adoro enfrentar novos desafios e acredito em sair da zona de conforto para promover mudanças significativas e entregar resultados melhores.
+<a href="./readme.md">pt</a> | <a href="./readme-en.md">en</a>
 
-Minha carreira foi marcada por uma combinação de construção de novos projetos, modernização de designs desatualizados e manutenção de sistemas legados. No entanto, acredito que este é apenas o começo. Estou sempre buscando aprender e crescer, especialmente em áreas que estejam alinhadas com minhas aspirações de carreira e valores pessoais. Atualmente, estou focada em expandir minhas habilidades em gestão para aumentar ainda mais meu impacto no mundo da tecnologia.
-
-Além das telas, sou apaixonada por velejar, encontrando paz e aventura no mar. Também gosto de manter minha mente e corpo ativos através de treinos regulares, leitura e aprendizado de novos idiomas. Recentemente, escrevi um ebook sobre crescimento de carreira, compartilhando insights e experiências da minha jornada na tecnologia, com o objetivo de inspirar outras pessoas a tomarem as rédeas de suas carreiras com confiança e clareza.
-
-
-----
-**Experiências:**
-- **Engenheira de Software**  
-**XP Investimentos**  
-2021, Março - Presente
-
-- **Engenheira de Software**  
-**Sovos**  
-2019, Abril - 2021, Março
-
-- **Engenheira de Software**  
-*Webedia*  
-2018, Jul - 2019, Abril  
-
-- **Estágio**  
-*Crodity*  
-2018, Jan - 2018, Jun
-
------
-
-**Habilidades:**
-
-- **Linguagens de programação:** JavaScript, C#
-
-- **Frameworks & Tecnologias:** React.js, Redux, ES6, Jest, Enzyme, .Net, TypeScript, Next
-
-- **Outros:** HTML/HTML5, CSS, CSS3, Rest API's, GraphQL, Git, WordPress, Oauth, Oidc, E2E com Ruby
-
----- 
-
-**Educação:**  
-
-- **Educa{devas}**  
-Reprograma, 2023  
-
-- **Gestão estratégica de Tecnologia da Informação**  
-Fundação Getúlio Vargas, 2022
-
-- **Análise e desenvolvimento de Sistemas**  
-Faculdade Impacta de Tecnologia, 2018
-
-- **Formação Básica em Fotografia**  
-Senac, 2014
-
-**Outros cursos:**  
-- **From Engineer to Technical Manager**  
-Udemy  
-
-- **Performance Web I: otimizando o front-end**  
-Alura  
-
----  
-
-- **Application Security Training (Modelagem de Ameaças, Web, API e Mobile)**  
-Conviso Application Security  
-
----  
-
-- **Dominando TypeScript**  
-- **The Web Developer Bootcamp**  
-Udemy  
-
----  
-
-- **Getting Started with Redux**  
-Egghead.io  
-
----  
-
-- **C# Development Fundamentals**  
-- **Using React Hooks**  
-- **Introduction to SQL Server** 
-- **SQL Server: Transact-SQL Basic Data Modification**  
-- **HTTP Fundamentals**  
-Pluralsight 
-
----  
-
-**Idiomas**  
-Português (Brasil) - Nativo  
-Inglês - Avançado  
-Francês - Básico  
 ---
 
-## Project: Resume site (React + Vite)
+## Sobre
 
-This repository now includes a presentational resume website built with **React + Vite + TypeScript** and styled with **Tailwind CSS**. The site is intended as a professional front card and portfolio for Renata Oliveira.
+Acredito que grande engenharia vai além de escrever bom código — é sobre empoderar pessoas, tomar decisões técnicas cuidadosas e construir sistemas que escalam, tanto tecnicamente quanto organizacionalmente.
 
-Quick start (local):
-1. Install dependencies: `npm ci`
-2. Start dev server: `npm run dev`
-3. Build for production: `npm run build`
+Sou Senior Software Engineer com mais de 9 anos de experiência projetando e entregando produtos digitais de alta escala, principalmente no setor de tecnologia financeira. Ao longo da minha carreira, desenvolvi expertise em TypeScript, React e Arquitetura Frontend, liderando iniciativas que elevaram padrões de engenharia, qualidade de software, observabilidade e experiência do desenvolvedor.
 
-Form (contact):
-- The contact form uses **Formspree**. Configure the endpoint in `src/components/ContactForm.tsx` (already set to your form ID).
+Nos últimos anos, minha carreira evoluiu naturalmente para a liderança técnica. Além de projetar e entregar software, mentoro engenheiras e engenheiros, conduzo entrevistas técnicas, influencio decisões arquiteturais e colaboro com equipes de Produto, Design, Backend e Engenharia para resolver desafios técnicos complexos.
 
-Where to edit content:
-- `src/App.tsx` — hero copy, experience and education
-- `src/components/Skills.tsx` — skills & languages
-- `src/components/Projects.tsx` — recent projects
-- `src/components/TechMarquee.tsx` — tech icons
-- `src/components/ContactForm.tsx` — form fields / endpoint
+Atualmente curso Pós-Graduação em Arquitetura de Software na FIAP e direciono minha carreira para posições de Technical Leadership e Engineering Management.
 
-Deployment:
-- GitHub Actions will build and deploy to **GitHub Pages** on push to the repository's default branch (`main` or `master`) (see `.github/workflows/deploy.yml`).
+---
 
-Details & notes:
-- Light palette uses soft, finance-grade colors and a single accent color (Soft Indigo). Change `src/styles/index.css` variables to update the theme.
-- Company and education logos are included as external links or data URIs; I can download and inline them if you prefer.
+## Destaques de Liderança
 
-See `SITE_README.md` for more site-specific instructions.
+- Liderança técnica de iniciativas estratégicas de frontend e definição de arquitetura
+- Criação e adoção de monorepo de simuladores, iniciando sua expansão para novos produtos
+- Definição de padrões de engenharia reutilizados por múltiplos times
+- Mentoria de engenheiras e engenheiros em onboarding e desenvolvimento técnico
+- Condução independente de entrevistas técnicas para posições Frontend e Mobile
+- Criação de frameworks para padronização do processo seletivo técnico utilizados por outros entrevistadores
+- Colaboração próxima com Produto, Backend e Design para tomadas de decisão técnica
+- Introdução de iniciativas de observabilidade com Dynatrace e DQL
+- Promoção de acessibilidade, testes automatizados E2E e boas práticas de qualidade
+- Apoio e influência técnica para equipes além do próprio squad
+
+---
+
+## Experiências
+
+### XP Investimentos
+**Senior Software Engineer** — *Março 2021 – Presente*
+
+> TypeScript, React, Next.js, React Testing Library, Jest, Dynatrace, DQL, Ruby, Cypress, Acessibilidade (WCAG)
+
+**Liderança Técnica & Arquitetura**
+- Liderança técnica de projetos estratégicos de frontend, incluindo a criação do monorepo de simuladores de investimentos e início de sua adoção em novos produtos
+- Definição de arquitetura e padrões de desenvolvimento utilizados por diferentes equipes
+- Modelagem técnica de novos produtos em colaboração com Produto, Design e Backend
+- Participação ativa em decisões arquiteturais que impactaram múltiplos squads
+
+**Engineering Excellence**
+- Introdução e manutenção de iniciativas de observabilidade com Dynatrace e DQL
+- Implantação de testes E2E automatizados, elevando a cobertura de qualidade
+- Desenvolvimento de boas práticas de acessibilidade (WCAG) em produtos financeiros de alta escala
+- Criação de documentação, padrões e guias técnicos reutilizados por outros times
+
+**Pessoas & Desenvolvimento**
+- Mentoria de engenheiras e engenheiros em onboarding, revisões de código e desenvolvimento técnico
+- Condução independente de entrevistas técnicas para posições Frontend e Mobile
+- Criação de frameworks para padronização do processo seletivo técnico adotados por outros entrevistadores
+- Compartilhamento de conhecimento e promoção de cultura de aprendizado contínuo
+
+**Impacto Cross-funcional**
+- Colaboração com times de Produto, Design, Backend e stakeholders de negócio
+- Apoio técnico a equipes além do próprio squad, contribuindo para iniciativas organizacionais mais amplas
+- Suporte a experimentos de A/B testing e tomadas de decisão orientadas por dados
+
+---
+
+### Sovos
+**Software Engineer** — *Abril 2019 – Março 2021*
+
+> React, Redux, TypeScript, ES6, Jest, Enzyme, .Net Core, C#
+
+Atuei em manutenção e evolução de aplicações de compliance em uma multinacional, trabalhando em stack full-stack (frontend React/Redux e backend .Net Core).
+
+- Modernização de aplicações legadas, migrando arquitetura e atualizando bibliotecas para o design system atualizado da empresa
+- Refatoração e reimplementação de módulos críticos de relatórios financeiros
+- Trabalho com front-end e back-end, adquirindo visão sistêmica do produto
+
+---
+
+### Webedia — Minha Vida
+**Software Engineer** — *Julho 2018 – Abril 2019*
+
+> React, Redux, ES6, SCSS, Bootstrap, Node.js, OAuth 2, OIDC
+
+- **Templatator**: Construção de sistema de gerenciamento de templates de conteúdo com autonomia completa sobre o stack de frontend; implementação de microserviço de gestão de usuários integrado com Google Accounts
+- **Sampleo**: Desenvolvimento de plataforma de campanhas com integração a redes sociais, permitindo que usuários se tornassem embaixadores de marcas parceiras
+
+---
+
+### Crodity
+**Estágio — Software Developer** — *Janeiro 2018 – Junho 2018*
+
+> React, Meteor, Node.js, JavaScript (ES6)
+
+Primeira experiência em startup, participando desde a consolidação de ideias até a implementação de features de frontend e contribuições pontuais no backend.
+
+---
+
+## Formação
+
+**Pós-Graduação em Arquitetura de Software**
+FIAP — *Em andamento*
+
+**MBA — Gestão Estratégica de Tecnologia da Informação**
+Fundação Getúlio Vargas (FGV) — *2022*
+
+**Tecnologia — Análise e Desenvolvimento de Sistemas**
+Faculdade Impacta de Tecnologia — *2018*
+
+---
+
+## Habilidades
+
+**Linguagens & Core:** TypeScript, JavaScript (ES6+), HTML5, CSS3, SCSS
+
+**Frameworks & Bibliotecas:** React, Next.js, Redux, React Testing Library, Jest, Cypress, Enzyme
+
+**Arquitetura & Engenharia:** Arquitetura Frontend, Monorepo, Clean Architecture, Design System, Micro-frontends
+
+**Observabilidade & Qualidade:** Dynatrace, DQL, Testes E2E, Acessibilidade (WCAG), Testes Automatizados
+
+**APIs & Integrações:** REST API, GraphQL, OAuth 2.0, OIDC
+
+**Ferramentas:** Git, Docker, WordPress, Scrum/Agile
+
+**Backend (experiência):** Node.js, .Net Core, C#, SQL, MongoDB
+
+---
+
+## Cursos & Certificações
+
+- **Application Security Training** — Conviso Application Security *(Threat Modeling, Web, API, Mobile)*
+- **Educa{devas}** — Reprograma *(2023)*
+- **From Engineer to Technical Manager** — Udemy
+- **Performance Web I: Otimizando o Front-End** — Alura
+- **Dominando TypeScript** — Udemy
+- **The Web Developer Bootcamp** — Udemy
+- **Getting Started with Redux** — Egghead.io
+- **C# Development Fundamentals / Using React Hooks / HTTP Fundamentals** — Pluralsight
+
+---
+
+## Idiomas
+
+- Português (Brasil) — Nativo
+- Inglês — Avançado
+- Francês — Iniciante

@@ -1,128 +1,151 @@
-# **Renata Oliveira**
+# Renata Oliveira
 
-<img src="https://media.licdn.com/dms/image/D4D03AQG2nmhCq3NnaA/profile-displayphoto-shrink_800_800/0/1674506430890?e=1685577600&v=beta&t=TZLUZRsUTL3WVA40khY66vI0R3xrzNBm2sWcHt6EZcM" style="border-radius: 50%;" width="100px"/>
+**Senior Software Engineer | Frontend Architecture | Technical Leadership**
 
-## Front-end Engineer  
+renatabels@gmail.com
+[linkedin.com/in/rnataoliveira](https://www.linkedin.com/in/rnataoliveira/) | [github.com/rnataoliveira](https://github.com/rnataoliveira/)
 
-renatabels@gmail.com  
-[github.com/rnataoliveira](https://github.com/rnataoliveira/)  
-[linkedin.com/in/rnataoliveira](https://www.linkedin.com/in/rnataoliveira/)
+<a href="./readme.md">pt</a> | <a href="./readme-en.md">en</a>
 
-<a href="https://rnataoliveira.github.io/resume/">pt</a> | <a href="https://rnataoliveira.github.io/resume/readme-en">en</a>
+---
 
-## **ABOUT**
-My full name is Joelma Renata Alves de Oliveira, I'm 28 years old, graduated in Systems Analysis and Development from Faculdade Impacta de Tecnologia. I entered the technology market believing that it would be a good thing to be challenged every day. It was on a day-to-day basis that I was able to put into practice much of the knowledge acquired and also learn new technologies, in addition to better understanding how IT teams and agile methodologies work. I have most of my experience working with front-end, with React, Redux, Next and Jest stacks. Also I had experience in the backend working with NodeJs and .Net Core and PHP.
-In addition, I have studied photography in the past, advertising and worked with interior and furniture designer. I'm also trying to learn french.  
+## About
 
-## **KNOWLEDGE PATH**
-- **FACULDADE IMPACTA DE TECNOLOGIA**
-  - Analysis and systems development (2018)   
+I believe great engineering is about more than writing great code. It's about empowering people, making thoughtful technical decisions, and building systems that scale — both technically and organizationally.
 
-- **FGV - Fundação Getúlio Vargas**  
-  - [Strategic Management of Information Technology(2022)](https://brasilopenbadge.com.br/pages/badge/04c6c822b7a4a13f73608a8cee353a74)  
+I'm a Senior Software Engineer with 9+ years of experience designing and delivering large-scale digital products, primarily within the financial technology industry. Throughout my career, I've built expertise in TypeScript, React, and Frontend Architecture, leading initiatives that improved engineering standards, software quality, observability, and developer experience.
 
-- **UDEMY**
-  - [Mastering TypeScript](https://github.com/rnataoliveira/resume/blob/master/certificates/CertificateTypeScript.jpeg)
+More recently, my career has naturally evolved toward technical leadership. Beyond designing and delivering software, I mentor engineers, conduct technical interviews, influence architectural direction, and collaborate closely with Product, Design, Backend, and Engineering teams to solve complex business challenges.
 
-- **WesBos**  
-  - [Learn Redux](https://courses.wesbos.com/account/access/5a5f67c3d70b6b62cecad30b)
+I'm currently pursuing a Postgraduate Degree in Software Architecture at FIAP while deepening my knowledge of software architecture, distributed systems, engineering leadership, and organizational scalability.
 
-- **Egghead.io**  
-  - [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux)
+---
 
-- **UDEMY**
-  - [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp/learn/v4/overview)
+## Leadership Highlights
 
-- **PLURALSIGHT**
-  - [C# Development Fundamentals]()
-  - [Using React Hooks]()
-  - [Introduction to SQL Server](https://github.com/rnataoliveira/resume/blob/master/certificates/CertificateIntroductionToSQLServer.pdf)
-  - [SQL Server: Transact-SQL Basic Data Modification](https://github.com/rnataoliveira/resume/blob/master/certificates/SQLServer-Transact-SQL%20Basic%20Data%20Modification.pdf)
-  - [HTTP Fundamentals](https://github.com/rnataoliveira/resume/blob/master/certificates/HTTPFundamentals.pdf)
+- Technical leadership of strategic frontend initiatives and architecture definition
+- Created and led adoption of an investment simulators monorepo, expanding it to new products
+- Defined engineering standards reused across multiple teams
+- Mentored engineers through onboarding and ongoing technical development
+- Independently conducted technical interviews for Frontend and Mobile positions
+- Created reusable frameworks for standardizing technical interview processes, adopted by other interviewers
+- Collaborated closely with Product, Backend, and Design for technical decision-making
+- Introduced observability initiatives with Dynatrace and DQL
+- Promoted accessibility (WCAG), E2E automated testing, and quality best practices
+- Provided technical support to teams beyond my own squad
 
-- **SOFTBLUE**
-  - [Curso SQL Completo](https://github.com/rnataoliveira/resume/blob/master/certificates/CURSO-SQL.pdf)
+---
 
-- **CODECADEMY**
-  - HTML5/CSS3 
-  - Python 
+## Experience
 
-- **ENGLISHTOWN**
-  - English
+### XP Investimentos
+**Senior Software Engineer** — *March 2021 – Present*
 
-## **SKILLS**
-CSS 3  
-SCSS  
-HTML 5   
-Materialize  
-Material UI  
-Git  
-React  
-Redux  
-Javascript  
-Next  
-WordPress  
-PHP  
-ES 6   
-TypeScript  
-GraphQL  
-Jest  
-E2E(Cypress)  
-Enzyme    
-jQuery  
-OAuth 2   
-Oidc  
-Docker  
-Asp Net Core  
-C#  
-Node  
-Sql  
-Mongo  
-Scrum  
+> TypeScript, React, Next.js, React Testing Library, Jest, Dynatrace, DQL, Ruby, Cypress, Accessibility (WCAG)
 
-## **LANGUAGES**
-- Portuguese - Native
-- English - Advanced Level  
-- French - Exploring  
+**Technical Leadership & Architecture**
+- Technical lead on strategic frontend projects, including the creation of an investment simulators monorepo and driving its adoption across new products
+- Defined architecture and development standards used by multiple engineering teams
+- Technically modeled new products in collaboration with Product, Design, and Backend teams
+- Actively participated in architectural decisions impacting multiple squads
 
-## **EXPERIENCES**
+**Engineering Excellence**
+- Introduced and maintained observability initiatives using Dynatrace and DQL
+- Implemented E2E automated testing, raising quality coverage standards
+- Developed accessibility (WCAG) best practices for high-scale financial products
+- Created documentation, technical standards, and guides reused by other teams
 
-I would be glad to talk about it and also it can be checked on my [linkedin](https://www.linkedin.com/in/rnataoliveira/) account.
+**People & Development**
+- Mentored engineers through onboarding, code reviews, and technical growth
+- Independently conducted technical interviews for Frontend and Mobile engineering positions
+- Built interview standardization frameworks adopted by other interviewers
+- Promoted knowledge sharing and a culture of continuous learning
 
-## **[XPInvestimentos](https://www.xpi.com.br/)**  
-- **2021, March - Present**  
+**Cross-functional Impact**
+- Collaborated with Product, Design, Backend, and business stakeholders
+- Provided technical support to teams beyond my own squad, contributing to broader organizational initiatives
+- Supported A/B testing experiments and data-driven decision-making
 
-> React, Next, ES6, TypeScript, Jest, Enzyme, React Testing Library, Ruby, WordPress, PHP  
+---
 
-Focusing mainly on the front-end, I've had the opportunity to work in several segments. I was able to create a chatbot from scratch, with A/B tests, e2e tests and more recently I work with Wordpress.  
+### Sovos
+**Software Engineer** — *April 2019 – March 2021*
 
-## **[Sovos](https://sovos.com/)**  
-- **2019, April - 2021, March**  
-> React, Redux, ES6, .Net Core  
+> React, Redux, TypeScript, ES6, Jest, Enzyme, .Net Core, C#
 
-I had the opportunity to work with both front-end and back-end in maintaining compliance applications in this multinational company.  
+Worked on maintenance and evolution of compliance applications at a multinational company, spanning both frontend and backend stacks.
 
-### **Reporting**  
->React, Redux, ES6, Jest, Enzyme  
+- Modernized legacy applications, migrating architecture and updating libraries to the company's current design system
+- Refactored and reimplemented critical financial reporting modules
+- Gained full-stack perspective working across React/Redux frontend and .Net Core backend
 
-This project was created based on existing projects, having its architecture remodeled and its libraries completely updated, considering that the projects were outdated. The objective was the complete migration to the new apps where the company's design system was used in its most current version.  
+---
 
-## **[Webedia](http://www.webedia.com.br/) - [Minha Vida](https://minhavida.com.br/)**  
-- **2018, July - 2019, April**  
+### Webedia — Minha Vida
+**Software Engineer** — *July 2018 – April 2019*
 
-### **Templatator**
-> React, Redux, ES6, Scss, Bootstrap, Oidc  
+> React, Redux, ES6, SCSS, Bootstrap, Node.js, OAuth 2, OIDC
 
-This project was based on the company's needs to manage the templates, which were the content views of the website [Minha Vida](https://minhavida.com.br), where it was possible to add, remove, change and even duplicate a template, in addition to allowing the creation of more elaborate templates, as well as sponsored ones. When carrying out this project, I had the autonomy to make decisions about the front-end stack, as well as its entire implementation. In addition, I worked on the implementation of the user management microservice integrated with Google Accounts.  
+- **Templatator**: Built a content template management system with full ownership of the frontend stack; implemented a user management microservice integrated with Google Accounts
+- **Sampleo**: Developed a brand campaign platform with social media integrations, enabling ordinary users to become brand ambassadors
 
+---
 
-### **Sampleo**
->React, ES6, Scss  
+### Crodity
+**Internship — Software Developer** — *January 2018 – June 2018*
 
-It was a product that aimed to promote the company's partner brands, where the customer could participate in campaigns and receive samples at home to carry out the test and fulfill tasks that would prove that the product was actually tested in the real world, allowing ordinary people to become influencers of brands on social networks. For this project, we carried out integrations with social networks, as well as the creation of the front-end, from basic functionalities, such as the entire campaign management part.  
+> React, Meteor, Node.js, JavaScript (ES6)
 
-## **[Crodity](https://www.crodity.com/)**  
-- **2018, January - June**  
-> React, Meteor, Node  
+First startup experience, contributing from product ideation through frontend feature implementation and occasional backend problem-solving.
 
-This was my first experience working in a startup and as a software developer. The initial idea of ​​the product was to build a social network with its own internal solutions for resellers/product stores, based on influential people. I was able to participate in the process of consolidating ideas, as well as being at the forefront of front-end processes, using Javascript, React(ES6), in addition to participating in small back-end problem solutions with technologies such as Node and Meteor.  
+---
+
+## Education
+
+**Postgraduate Degree in Software Architecture**
+FIAP — *In progress*
+
+**MBA — Strategic Management of Information Technology**
+Fundação Getúlio Vargas (FGV) — *2022*
+
+**Technology — Systems Analysis and Development**
+Faculdade Impacta de Tecnologia — *2018*
+
+---
+
+## Skills
+
+**Languages & Core:** TypeScript, JavaScript (ES6+), HTML5, CSS3, SCSS
+
+**Frameworks & Libraries:** React, Next.js, Redux, React Testing Library, Jest, Cypress, Enzyme
+
+**Architecture & Engineering:** Frontend Architecture, Monorepo, Clean Architecture, Design System, Micro-frontends
+
+**Observability & Quality:** Dynatrace, DQL, E2E Testing, Accessibility (WCAG), Automated Testing
+
+**APIs & Integrations:** REST API, GraphQL, OAuth 2.0, OIDC
+
+**Tooling:** Git, Docker, WordPress, Scrum/Agile
+
+**Backend (experience):** Node.js, .Net Core, C#, SQL, MongoDB
+
+---
+
+## Courses & Certifications
+
+- **Application Security Training** — Conviso Application Security *(Threat Modeling, Web, API, Mobile)*
+- **Educa{devas}** — Reprograma *(2023)*
+- **From Engineer to Technical Manager** — Udemy
+- **Performance Web I: Front-End Optimization** — Alura
+- **Mastering TypeScript** — Udemy
+- **The Web Developer Bootcamp** — Udemy
+- **Getting Started with Redux** — Egghead.io
+- **C# Development Fundamentals / Using React Hooks / HTTP Fundamentals** — Pluralsight
+
+---
+
+## Languages
+
+- Portuguese (Brazil) — Native
+- English — Advanced
+- French — Beginner
