@@ -44,27 +44,24 @@ Atualmente curso Pós-Graduação em Arquitetura de Software na FIAP e direciono
 > TypeScript, React, Next.js, React Testing Library, Jest, Dynatrace, DQL, Ruby, Cypress, Acessibilidade (WCAG)
 
 **Liderança Técnica & Arquitetura**
-- Liderança técnica de projetos estratégicos de frontend, incluindo a criação do monorepo de simuladores de investimentos e início de sua adoção em novos produtos
-- Definição de arquitetura e padrões de desenvolvimento utilizados por diferentes equipes
-- Modelagem técnica de novos produtos em colaboração com Produto, Design e Backend
-- Participação ativa em decisões arquiteturais que impactaram múltiplos squads
+- Liderou tecnicamente a criação de uma plataforma de simuladores de investimentos que se tornou referência arquitetural adotada por novos produtos
+- Definiu padrões e decisões de arquitetura frontend utilizados por múltiplos times
+- Modelou soluções técnicas em colaboração com Produto, Design e Backend, equilibrando velocidade de entrega com qualidade a longo prazo
+- Influenciou decisões arquiteturais além do próprio squad
 
 **Engineering Excellence**
-- Introdução e manutenção de iniciativas de observabilidade com Dynatrace e DQL
-- Implantação de testes E2E automatizados, elevando a cobertura de qualidade
-- Desenvolvimento de boas práticas de acessibilidade (WCAG) em produtos financeiros de alta escala
-- Criação de documentação, padrões e guias técnicos reutilizados por outros times
+- Introduziu cultura de observabilidade em produtos financeiros de alta escala
+- Elevou padrões de qualidade com testes automatizados e acessibilidade como práticas de time, não tarefas individuais
+- Criou documentação e guias técnicos reutilizados por outras equipes
 
 **Pessoas & Desenvolvimento**
-- Mentoria de engenheiras e engenheiros em onboarding, revisões de código e desenvolvimento técnico
-- Condução independente de entrevistas técnicas para posições Frontend e Mobile
-- Criação de frameworks para padronização do processo seletivo técnico adotados por outros entrevistadores
-- Compartilhamento de conhecimento e promoção de cultura de aprendizado contínuo
+- Acelerou o desenvolvimento de engenheiras e engenheiros em onboarding e crescimento técnico
+- Conduziu entrevistas técnicas de forma independente e criou frameworks de processo seletivo adotados por outros entrevistadores
+- Construiu ambiente de aprendizado contínuo através de compartilhamento de conhecimento e revisões de código
 
 **Impacto Cross-funcional**
-- Colaboração com times de Produto, Design, Backend e stakeholders de negócio
-- Apoio técnico a equipes além do próprio squad, contribuindo para iniciativas organizacionais mais amplas
-- Suporte a experimentos de A/B testing e tomadas de decisão orientadas por dados
+- Ponte entre Produto, Design e Engenharia — traduziu necessidades de negócio em decisões técnicas consistentes
+- Referência técnica para equipes além do próprio squad
 
 ---
 
@@ -73,21 +70,18 @@ Atualmente curso Pós-Graduação em Arquitetura de Software na FIAP e direciono
 
 > React, Redux, TypeScript, ES6, Jest, Enzyme, .Net Core, C#
 
-Atuei em manutenção e evolução de aplicações de compliance em uma multinacional, trabalhando em stack full-stack (frontend React/Redux e backend .Net Core).
+Atuei em manutenção e evolução de aplicações de compliance em uma multinacional, com visão full-stack do produto.
 
-- Modernização de aplicações legadas, migrando arquitetura e atualizando bibliotecas para o design system atualizado da empresa
-- Refatoração e reimplementação de módulos críticos de relatórios financeiros
-- Trabalho com front-end e back-end, adquirindo visão sistêmica do produto
+- Modernizou aplicações legadas de compliance financeiro, reconstruindo arquitetura e trazendo os produtos ao estado atual
+- Atuou em frontend e backend, desenvolvendo visão sistêmica do produto e da organização
 
 ---
 
 ### Webedia — Minha Vida
 **Software Engineer** — *Julho 2018 – Abril 2019*
 
-> React, Redux, ES6, SCSS, Bootstrap, Node.js, OAuth 2, OIDC
-
-- **Templatator**: Construção de sistema de gerenciamento de templates de conteúdo com autonomia completa sobre o stack de frontend; implementação de microserviço de gestão de usuários integrado com Google Accounts
-- **Sampleo**: Desenvolvimento de plataforma de campanhas com integração a redes sociais, permitindo que usuários se tornassem embaixadores de marcas parceiras
+- **Templatator**: Desde a escolha do stack até a entrega — construiu sistema de gestão de templates com autonomia completa, incluindo microserviço de usuários integrado com Google Accounts
+- **Sampleo**: Desenvolveu plataforma de campanhas de marca do zero, com integrações a redes sociais e gestão de campanhas end-to-end
 
 ---
 
@@ -113,21 +107,17 @@ Faculdade Impacta de Tecnologia — *2018*
 
 ---
 
-## Habilidades
+## Competências
 
-**Linguagens & Core:** TypeScript, JavaScript (ES6+), HTML5, CSS3, SCSS
+**Arquitetura Frontend** — Arquitetura SPA/SSR escalável, monorepo, micro-frontends, Design System, otimização de performance
 
-**Frameworks & Bibliotecas:** React, Next.js, Redux, React Testing Library, Jest, Cypress, Enzyme
+**Qualidade de Engenharia** — Estratégia de testes (unitários, integração, E2E), acessibilidade, observabilidade, CI/CD
 
-**Arquitetura & Engenharia:** Arquitetura Frontend, Monorepo, Clean Architecture, Design System, Micro-frontends
+**Liderança Técnica** — Decisões arquiteturais, padronização cross-team, condução de entrevistas, mentoria, documentação
 
-**Observabilidade & Qualidade:** Dynatrace, DQL, Playwright, Cypress, Testes E2E, Acessibilidade (WCAG), Testes Automatizados
+**Visão full-stack** — Navegação confortável em backend e APIs (REST, GraphQL, OAuth 2.0)
 
-**APIs & Integrações:** REST API, GraphQL, OAuth 2.0, OIDC
-
-**Ferramentas:** Git, Docker, WordPress, Scrum/Agile
-
-**Backend (experiência):** Node.js, .Net Core, C#, SQL, MongoDB
+**Stack atual de referência** — TypeScript, React, Next.js
 
 ---
 

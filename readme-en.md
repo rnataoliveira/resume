@@ -44,27 +44,24 @@ I'm currently pursuing a Postgraduate Degree in Software Architecture at FIAP wh
 > TypeScript, React, Next.js, React Testing Library, Jest, Dynatrace, DQL, Ruby, Cypress, Accessibility (WCAG)
 
 **Technical Leadership & Architecture**
-- Technical lead on strategic frontend projects, including the creation of an investment simulators monorepo and driving its adoption across new products
-- Defined architecture and development standards used by multiple engineering teams
-- Technically modeled new products in collaboration with Product, Design, and Backend teams
-- Actively participated in architectural decisions impacting multiple squads
+- Led creation of an investment simulators platform that became the architectural reference adopted across new products
+- Defined frontend architecture and engineering standards used by multiple teams
+- Shaped technical solutions alongside Product, Design, and Backend — balancing delivery speed with long-term quality
+- Influenced architectural decisions beyond my own squad
 
 **Engineering Excellence**
-- Introduced and maintained observability initiatives using Dynatrace and DQL
-- Implemented E2E automated testing, raising quality coverage standards
-- Developed accessibility (WCAG) best practices for high-scale financial products
-- Created documentation, technical standards, and guides reused by other teams
+- Introduced an observability culture in high-scale financial products
+- Raised quality standards by establishing automated testing and accessibility as team practices, not individual tasks
+- Created documentation and technical guides reused across teams
 
 **People & Development**
-- Mentored engineers through onboarding, code reviews, and technical growth
-- Independently conducted technical interviews for Frontend and Mobile engineering positions
-- Built interview standardization frameworks adopted by other interviewers
-- Promoted knowledge sharing and a culture of continuous learning
+- Accelerated growth of engineers through onboarding, code reviews, and ongoing technical mentorship
+- Independently conducted technical interviews and built interview frameworks adopted by other interviewers
+- Built a continuous learning environment through knowledge sharing and structured feedback
 
 **Cross-functional Impact**
-- Collaborated with Product, Design, Backend, and business stakeholders
-- Provided technical support to teams beyond my own squad, contributing to broader organizational initiatives
-- Supported A/B testing experiments and data-driven decision-making
+- Bridge between Product, Design, and Engineering — translated business needs into consistent technical decisions
+- Go-to technical reference for teams beyond my own squad
 
 ---
 
@@ -73,21 +70,18 @@ I'm currently pursuing a Postgraduate Degree in Software Architecture at FIAP wh
 
 > React, Redux, TypeScript, ES6, Jest, Enzyme, .Net Core, C#
 
-Worked on maintenance and evolution of compliance applications at a multinational company, spanning both frontend and backend stacks.
+Worked on maintenance and evolution of compliance applications at a multinational company, with full-stack ownership of the product.
 
-- Modernized legacy applications, migrating architecture and updating libraries to the company's current design system
-- Refactored and reimplemented critical financial reporting modules
-- Gained full-stack perspective working across React/Redux frontend and .Net Core backend
+- Modernized legacy financial compliance applications, rebuilding the architecture and bringing products up to current standards
+- Developed across frontend and backend, gaining systemic understanding of both the product and the organization
 
 ---
 
 ### Webedia — Minha Vida
 **Software Engineer** — *July 2018 – April 2019*
 
-> React, Redux, ES6, SCSS, Bootstrap, Node.js, OAuth 2, OIDC
-
-- **Templatator**: Built a content template management system with full ownership of the frontend stack; implemented a user management microservice integrated with Google Accounts
-- **Sampleo**: Developed a brand campaign platform with social media integrations, enabling ordinary users to become brand ambassadors
+- **Templatator**: Full ownership from stack decision to delivery — built a content template management system and a user management microservice integrated with Google Accounts
+- **Sampleo**: Built a brand campaign platform from scratch, including social media integrations and end-to-end campaign management
 
 ---
 
@@ -113,21 +107,17 @@ Faculdade Impacta de Tecnologia — *2018*
 
 ---
 
-## Skills
+## Core Competencies
 
-**Languages & Core:** TypeScript, JavaScript (ES6+), HTML5, CSS3, SCSS
+**Frontend Architecture** — Scalable SPA/SSR architecture, monorepo design, micro-frontends, Design System, performance optimization
 
-**Frameworks & Libraries:** React, Next.js, Redux, React Testing Library, Jest, Cypress, Enzyme
+**Engineering Quality** — Test strategy (unit, integration, E2E), accessibility, observability, CI/CD
 
-**Architecture & Engineering:** Frontend Architecture, Monorepo, Clean Architecture, Design System, Micro-frontends
+**Technical Leadership** — Architecture decision-making, cross-team standards, technical interviewing, mentoring, documentation
 
-**Observability & Quality:** Dynatrace, DQL, Playwright, Cypress, E2E Testing, Accessibility (WCAG), Automated Testing
+**Full-stack perspective** — Comfortable navigating backend and APIs (REST, GraphQL, OAuth 2.0)
 
-**APIs & Integrations:** REST API, GraphQL, OAuth 2.0, OIDC
-
-**Tooling:** Git, Docker, WordPress, Scrum/Agile
-
-**Backend (experience):** Node.js, .Net Core, C#, SQL, MongoDB
+**Current primary stack** — TypeScript, React, Next.js
 
 ---
 

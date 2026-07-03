@@ -20,10 +20,10 @@ const experiences: Experience[] = [
         period: "Mar 2021 — present",
         location: "São Paulo, BR · Híbrida",
         bullets: [
-            "Technical leadership of strategic frontend initiatives, including creation of an investment simulators monorepo adopted across new products",
-            "Defined architecture and engineering standards used by multiple teams",
-            "Introduced observability with Dynatrace/DQL and promoted WCAG accessibility and E2E automated testing",
-            "Mentored engineers, independently conducted technical interviews (Frontend & Mobile), and built standardized interview frameworks adopted by other interviewers",
+            "Led creation of an investment simulators platform that became the architectural reference adopted across new products",
+            "Defined frontend architecture and engineering standards used by multiple teams beyond my own squad",
+            "Introduced observability and quality practices — from testing strategy to accessibility — as team culture, not individual tasks",
+            "Mentored engineers, conducted independent technical interviews, and built interview frameworks adopted by other interviewers",
         ],
         logo: "https://upload.wikimedia.org/wikipedia/pt/0/0b/XP_Investimentos_logo.png",
     },
@@ -92,7 +92,7 @@ export default function App(): JSX.Element {
             skillsHeading: 'Skills & Languages',
             techHeader: 'Tech I use',
             contactHeading: 'Contact',
-            bio: 'Senior Software Engineer with 9+ years of experience designing and delivering large-scale digital products in fintech. Expertise in TypeScript, React, and Frontend Architecture. Beyond coding, I lead technical initiatives, mentor engineers, conduct technical interviews, and collaborate across Product, Design, and Backend to solve complex challenges. Currently pursuing a Postgraduate Degree in Software Architecture at FIAP.',
+            bio: 'Senior Software Engineer with 9+ years of experience in fintech. I care about building systems that scale — technically and organizationally. I lead architectural decisions, mentor engineers, and bridge Product, Design, and Engineering to turn complex problems into consistent solutions. I pick up whatever the problem needs, from observability to accessibility to backend systems. Currently deepening my knowledge in Software Architecture at FIAP.',
             footer: 'Built with React + Vite • Hosted on GitHub Pages',
         },
         pt: {
@@ -103,7 +103,7 @@ export default function App(): JSX.Element {
             skillsHeading: 'Competências & Idiomas',
             techHeader: 'Tecnologias que uso',
             contactHeading: 'Contato',
-            bio: 'Engenheira de Software Sênior com 9+ anos de experiência projetando e entregando produtos digitais de alta escala em fintech. Especialista em TypeScript, React e Arquitetura Frontend. Além do código, lidero iniciativas técnicas, mentoro engenheiras e engenheiros, conduzo entrevistas técnicas e colaboro com Produto, Design e Backend para resolver desafios complexos. Atualmente cursando Pós-Graduação em Arquitetura de Software na FIAP.',
+            bio: 'Engenheira de Software Sênior com 9+ anos de experiência em fintech. Me importo com construir sistemas que escalam — tecnicamente e organizacionalmente. Lidero decisões de arquitetura, mentoro engenheiras e engenheiros, e conecto Produto, Design e Engenharia para transformar problemas complexos em soluções consistentes. Aprendo o que o problema precisar, de observabilidade a acessibilidade a sistemas de backend. Atualmente aprofundando meu conhecimento em Arquitetura de Software na FIAP.',
             footer: 'Criado com React + Vite • Hospedado no GitHub Pages',
         },
     } as const;
