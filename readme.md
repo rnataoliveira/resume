@@ -103,7 +103,7 @@ Primeira experiência em startup, participando desde a consolidação de ideias 
 ## Formação
 
 **Pós-Graduação em Arquitetura de Software**
-FIAP — *Em andamento*
+FIAP — *2026 – presente*
 
 **MBA — Gestão Estratégica de Tecnologia da Informação**
 Fundação Getúlio Vargas (FGV) — *2022*

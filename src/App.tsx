@@ -55,7 +55,7 @@ const education: Education[] = [
     {
         institution: "FIAP",
         program: "Pós-Graduação em Arquitetura de Software",
-        period: "2024 — present",
+        period: "2026 — present",
         note: "In progress",
     },
     {

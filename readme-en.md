@@ -103,7 +103,7 @@ First startup experience, contributing from product ideation through frontend fe
 ## Education
 
 **Postgraduate Degree in Software Architecture**
-FIAP — *In progress*
+FIAP — *2026 – present*
 
 **MBA — Strategic Management of Information Technology**
 Fundação Getúlio Vargas (FGV) — *2022*
