@@ -92,7 +92,7 @@ export default function App(): JSX.Element {
             skillsHeading: 'Skills & Languages',
             techHeader: 'Tech I use',
             contactHeading: 'Contact',
-            bio: 'Senior Software Engineer with 9+ years of experience in fintech. I care about building systems that scale — technically and organizationally. I lead architectural decisions, mentor engineers, and bridge Product, Design, and Engineering to turn complex problems into consistent solutions. I pick up whatever the problem needs, from observability to accessibility to backend systems. Currently deepening my knowledge in Software Architecture at FIAP.',
+            bio: 'I believe great engineering is about more than writing great code — it\'s about empowering people, making thoughtful technical decisions, and building systems that scale, both technically and organizationally. Senior Software Engineer with 9+ years in fintech. I mentor engineers, influence architectural direction, support hiring decisions, and collaborate across Product, Design, and Backend to solve complex business challenges. My long-term goal is to lead high-performing engineering organizations where technology, people, and business strategy evolve together.',
             footer: 'Built with React + Vite • Hosted on GitHub Pages',
         },
         pt: {
@@ -103,7 +103,7 @@ export default function App(): JSX.Element {
             skillsHeading: 'Competências & Idiomas',
             techHeader: 'Tecnologias que uso',
             contactHeading: 'Contato',
-            bio: 'Engenheira de Software Sênior com 9+ anos de experiência em fintech. Me importo com construir sistemas que escalam — tecnicamente e organizacionalmente. Lidero decisões de arquitetura, mentoro engenheiras e engenheiros, e conecto Produto, Design e Engenharia para transformar problemas complexos em soluções consistentes. Aprendo o que o problema precisar, de observabilidade a acessibilidade a sistemas de backend. Atualmente aprofundando meu conhecimento em Arquitetura de Software na FIAP.',
+            bio: 'Acredito que grande engenharia vai além de escrever bom código — é sobre empoderar pessoas, tomar decisões técnicas cuidadosas e construir sistemas que escalam, tanto tecnicamente quanto organizacionalmente. Senior Software Engineer com 9+ anos em fintech. Mentoro engenheiras e engenheiros, influencio a direção arquitetural, apoio decisões de contratação e colaboro com Produto, Design e Backend para resolver desafios complexos de negócio. Meu objetivo de longo prazo é liderar organizações de engenharia de alto desempenho onde tecnologia, pessoas e estratégia de negócios evoluam juntos.',
             footer: 'Criado com React + Vite • Hospedado no GitHub Pages',
         },
     } as const;

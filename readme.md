@@ -11,13 +11,19 @@ renatabels@gmail.com
 
 ## Sobre
 
-Acredito que grande engenharia vai além de escrever bom código — é sobre empoderar pessoas, tomar decisões técnicas cuidadosas e construir sistemas que escalam, tanto tecnicamente quanto organizacionalmente.
+Acredito que grande engenharia vai além de escrever bom código. É sobre empoderar pessoas, tomar decisões técnicas cuidadosas e construir sistemas que escalam, tanto tecnicamente quanto organizacionalmente.
 
-Sou Senior Software Engineer com mais de 9 anos de experiência projetando e entregando produtos digitais de alta escala, principalmente no setor de tecnologia financeira. Ao longo da minha carreira, desenvolvi expertise em TypeScript, React e Arquitetura Frontend, liderando iniciativas que elevaram padrões de engenharia, qualidade de software, observabilidade e experiência do desenvolvedor.
+Sou Senior Software Engineer com mais de 9 anos de experiência projetando e entregando produtos digitais de alta escala, principalmente no setor de tecnologia financeira.
 
-Nos últimos anos, minha carreira evoluiu naturalmente para a liderança técnica. Além de projetar e entregar software, mentoro engenheiras e engenheiros, conduzo entrevistas técnicas, influencio decisões arquiteturais e colaboro com equipes de Produto, Design, Backend e Engenharia para resolver desafios técnicos complexos.
+Ao longo da minha carreira, desenvolvi expertise em TypeScript, React, Arquitetura Frontend e Engenharia de Software, liderando iniciativas que elevaram padrões de engenharia, qualidade de software, observabilidade e experiência do desenvolvedor.
 
-Atualmente curso Pós-Graduação em Arquitetura de Software na FIAP e direciono minha carreira para posições de Technical Leadership e Engineering Management.
+Mais recentemente, minha carreira evoluiu naturalmente para a liderança técnica. Além de projetar e entregar software, mentoro engenheiras e engenheiros, conduzo entrevistas técnicas, apoio decisões de contratação, influencio a direção arquitetural e colaboro com times de Produto, Design, Backend e Engenharia para resolver desafios complexos de negócio.
+
+Gosto de criar ambientes onde engenheiras e engenheiros possam fazer seu melhor trabalho — com direção técnica clara, compartilhamento de conhecimento, melhoria contínua e uma cultura de engenharia colaborativa.
+
+Atualmente curso Pós-Graduação em Arquitetura de Software na FIAP, aprofundando meu conhecimento em arquitetura de software, sistemas distribuídos, liderança em engenharia e escalabilidade organizacional.
+
+Meu objetivo de longo prazo é liderar organizações de engenharia de alto desempenho onde tecnologia, pessoas e estratégia de negócios evoluam juntos.
 
 ---
 

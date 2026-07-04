@@ -11,13 +11,19 @@ renatabels@gmail.com
 
 ## About
 
-I believe great engineering is about more than writing great code. It's about empowering people, making thoughtful technical decisions, and building systems that scale — both technically and organizationally.
+I believe great engineering is about more than writing great code. It's about empowering people, making thoughtful technical decisions, and building systems that scale, both technically and organizationally.
 
-I'm a Senior Software Engineer with 9+ years of experience designing and delivering large-scale digital products, primarily within the financial technology industry. Throughout my career, I've built expertise in TypeScript, React, and Frontend Architecture, leading initiatives that improved engineering standards, software quality, observability, and developer experience.
+I'm a Senior Software Engineer with 9+ years of experience designing and delivering large-scale digital products, primarily within the financial technology industry.
 
-More recently, my career has naturally evolved toward technical leadership. Beyond designing and delivering software, I mentor engineers, conduct technical interviews, influence architectural direction, and collaborate closely with Product, Design, Backend, and Engineering teams to solve complex business challenges.
+Throughout my career, I've built expertise in TypeScript, React, Frontend Architecture, and Software Engineering, leading initiatives that improved engineering standards, software quality, observability, and developer experience.
 
-I'm currently pursuing a Postgraduate Degree in Software Architecture at FIAP while deepening my knowledge of software architecture, distributed systems, engineering leadership, and organizational scalability.
+More recently, my career has naturally evolved toward technical leadership. Beyond designing and delivering software, I mentor engineers, conduct technical interviews, support hiring decisions, influence architectural direction, and collaborate closely with Product, Design, Backend, and Engineering teams to solve complex business challenges.
+
+I enjoy creating environments where engineers can do their best work through clear technical direction, knowledge sharing, continuous improvement, and a collaborative engineering culture.
+
+I'm currently pursuing a Postgraduate Degree in Software Architecture at FIAP while continuing to deepen my knowledge of software architecture, distributed systems, engineering leadership, and organizational scalability.
+
+My long-term goal is to lead high-performing engineering organizations where technology, people, and business strategy evolve together.
 
 ---
 
