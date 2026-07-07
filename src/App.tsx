@@ -56,6 +56,7 @@ const education: Education[] = [
         institution: "FIAP",
         program: "Pós-Graduação em Arquitetura de Software",
         period: "2026 — present",
+        logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqit2W7Tku3xXYwBmoJzYULnlhDh4P6mmr2hL_t-wxVg&s=10",
         note: "In progress",
     },
     {
