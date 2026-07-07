@@ -45,7 +45,7 @@ const experiences: Experience[] = [
 
 type Education = {
     institution: string;
-    program: string;
+    program: { en: string; pt: string };
     period: string;
     logo?: string;
     note?: string;
@@ -54,27 +54,39 @@ type Education = {
 const education: Education[] = [
     {
         institution: "FIAP",
-        program: "Pós-Graduação em Arquitetura de Software",
+        program: {
+            en: "Postgraduate Degree in Software Architecture",
+            pt: "Pós-Graduação em Arquitetura de Software",
+        },
         period: "2026 — present",
         logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqit2W7Tku3xXYwBmoJzYULnlhDh4P6mmr2hL_t-wxVg&s=10",
         note: "In progress",
     },
     {
         institution: "Faculdade Impacta Tecnologia",
-        program: "Análise e desenvolvimento de sistemas",
+        program: {
+            en: "Systems Analysis and Development",
+            pt: "Análise e desenvolvimento de sistemas",
+        },
         period: "2016 - 2018",
         logo: "https://www.grupogestaorh.com.br/conteudo/publicacoes/B7d5f3946af9d1617bec63ade6980e07ff092315.png",
         note: "Graduation",
     },
     {
         institution: "Fundação Getulio Vargas",
-        program: "Gestão Estratégica de Tecnologia da Informação",
-        period: "Fev 2022",
+        program: {
+            en: "Strategic Management of Information Technology",
+            pt: "Gestão Estratégica de Tecnologia da Informação",
+        },
+        period: "Feb 2022",
         logo: "https://logodownload.org/wp-content/uploads/2016/09/fgv-logo-0.png",
     },
     {
         institution: "Conviso",
-        program: "Application Security Training (Modelagem de Ameaças, Web, API e Mobile)",
+        program: {
+            en: "Application Security Training (Threat Modeling, Web, API & Mobile)",
+            pt: "Application Security Training (Modelagem de Ameaças, Web, API e Mobile)",
+        },
         period: "Jul 2023",
         logo: "data:image/png;base64,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",
     },
@@ -218,7 +230,7 @@ export default function App(): JSX.Element {
                                     <img src={e.logo} alt={`${e.institution} logo`} className="w-12 h-12 object-contain bg-white rounded" loading="lazy" />
                                 )}
                                 <div>
-                                    <div className="font-medium">{e.institution} — {e.program}</div>
+                                    <div className="font-medium">{e.institution} — {e.program[lang]}</div>
                                     <div className="text-sm text-slate-500">{e.period}</div>
                                     {e.note && <div className="text-sm text-slate-500 mt-1">{e.note}</div>}
                                 </div>
