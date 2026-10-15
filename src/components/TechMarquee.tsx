@@ -1,21 +1,25 @@
 import React, { useLayoutEffect, useRef, useState } from "react";
-import { SiReact, SiTypescript, SiJavascript, SiGraphql, SiJest, SiFlutter, SiTailwindcss, SiGit, SiCsharp, SiRuby, SiCypress } from "react-icons/si";
+import { SiReact, SiTypescript, SiJavascript, SiGraphql, SiJest, SiFlutter, SiTailwindcss, SiGit, SiCsharp, SiRuby, SiCypress, SiNextdotjs, SiRedux, SiMicrosoftazure, SiDynatrace } from "react-icons/si";
 import { FaNodeJs, FaGithub } from "react-icons/fa";
 
 const techs = [
   { name: "React", Icon: SiReact },
   { name: "TypeScript", Icon: SiTypescript },
   { name: "JavaScript", Icon: SiJavascript },
+  { name: "Next.js", Icon: SiNextdotjs },
+  { name: "Redux", Icon: SiRedux },
   { name: "Node.js", Icon: FaNodeJs },
   { name: "GraphQL", Icon: SiGraphql },
   { name: "Jest", Icon: SiJest },
   { name: "Cypress", Icon: SiCypress },
   { name: "Ruby (E2E)", Icon: SiRuby },
   { name: "C# (.NET)", Icon: SiCsharp },
+  { name: "Azure", Icon: SiMicrosoftazure },
+  { name: "Dynatrace", Icon: SiDynatrace },
   { name: "Tailwind", Icon: SiTailwindcss },
   { name: "Git", Icon: SiGit },
   { name: "GitHub", Icon: FaGithub },
-  { name: "Flutter (basic)", Icon: SiFlutter },
+  { name: "Flutter", Icon: SiFlutter },
 ];
 
 export default function TechMarquee({ lang = "en" }: { lang?: "en" | "pt" }): JSX.Element {

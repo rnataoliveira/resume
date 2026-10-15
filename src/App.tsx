@@ -4,42 +4,66 @@ import Skills from "./components/Skills";
 import Projects from "./components/Projects";
 import ContactForm from "./components/ContactForm";
 
+type Localized = { en: string; pt: string };
+
 type Experience = {
     company: string;
-    role: string;
-    period: string;
+    role: Localized;
+    period: Localized;
     location?: string;
-    bullets: string[];
+    stack?: string;
+    bullets: Localized[];
     logo?: string;
 };
 
 const experiences: Experience[] = [
     {
         company: "XP Investimentos",
-        role: "Senior Software Engineer",
-        period: "Mar 2021 — present",
-        location: "São Paulo, BR · Híbrida",
+        role: { en: "Senior Software Engineer · Acquisition", pt: "Engenheira de Software Sênior · Aquisição" },
+        period: { en: "Mar 2021 — present", pt: "mar/2021 — atual" },
+        location: "São Paulo, BR",
+        stack: "React, TypeScript, Next.js, C#/.NET, Flutter, Azure, Jest, Cypress, Dynatrace",
         bullets: [
-            "Led creation of an investment simulators platform that became the architectural reference adopted across new products",
-            "Defined frontend architecture and engineering standards used by multiple teams beyond my own squad",
-            "Introduced observability and quality practices — from testing strategy to accessibility — as team culture, not individual tasks",
-            "Mentored engineers, conducted independent technical interviews, and built interview frameworks adopted by other interviewers",
+            { en: "Built and evolved the public acquisition websites for XP, Clear and Rico", pt: "Desenvolvi e evoluí os sites abertos de aquisição da XP, Clear e Rico" },
+            { en: "Worked on the retail account opening journey, the main conversion step of the funnel", pt: "Atuei na jornada de abertura de conta PF, a principal etapa de conversão do funil" },
+            { en: "Ran A/B tests and growth initiatives on acquisition journeys", pt: "Conduzi testes A/B e iniciativas de growth nas jornadas de aquisição" },
+            { en: "Led the investment simulators platform (monorepo), which became the reference adopted by new products", pt: "Liderei tecnicamente a plataforma de simuladores de investimento (monorepo), que virou referência adotada por novos produtos" },
+            { en: "Built internal modules in the company hub: Leads Hub manager, member-get-member (MGM) campaign management and MGM customer support", pt: "Construí módulos internos no hub da empresa: gestor do hub de leads, gestão de campanhas MGM (indique e ganhe) e atendimento a clientes do MGM" },
+            { en: "Created CI/CD reports and visual standards for failure diagnosis, speeding up error analysis for the team", pt: "Criei relatórios e padrões visuais para diagnóstico de falhas no CI/CD, agilizando a análise de erros pelo time" },
+            { en: "Ensured quality with design system, unit and E2E tests, and accessibility", pt: "Garanti qualidade com design system, testes unitários e E2E e acessibilidade" },
+            { en: "Introduced observability with Dynatrace and DQL", pt: "Implantei observabilidade com Dynatrace e DQL" },
+            { en: "Delivered back-end (C#/.NET) and mobile (Flutter) work for the team", pt: "Atuei em demandas de back-end (C#/.NET) e mobile (Flutter) do time" },
+            { en: "Mentor less experienced engineers on the team, supporting their technical growth through day-to-day guidance and code reviews", pt: "Mentoro engenheiros menos experientes do time, apoiando seu desenvolvimento técnico no dia a dia e em code reviews" },
+            { en: "Actively take part in the company's hiring processes for new developers, running technical interviews for Front-end and Mobile", pt: "Participo ativamente dos processos seletivos de novos desenvolvedores da empresa, conduzindo entrevistas técnicas para Front-end e Mobile" },
         ],
         logo: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKQAAACUCAMAAAAqEXLeAAAAYFBMVEUSEhL///8AAAAPDw8ICAg+Pj4fHx9ra2tycnKbm5uLi4vp6ek2NjZbW1vT09P09PRMTEyqqqrMzMzDw8MlJSXh4eG8vLxjY2MvLy8qKiqkpKSAgICSkpLa2tqwsLBHR0dCeBpwAAAFE0lEQVR4nO2c25aqMAxAa1oQRS4qN8cR//8vp4AXaFOlwUEeup/OWgeYbSglDRC26pHH9bZMq8z/IlmVltt9nPe92POfdVBBA/8yrUQV1LpkUsv/EWwxCKmzT4aScQr8214qHNK4L1n48G0lDPCLp2SxpBPdR0Bxl4z9hTpKSz/uJJN0kee6A9Kkldwv2FFa7lvJ5V3XfTg0kssOZBtKtlovXXK9Ynm22Eu7Q5xyFi88kDKUMftZvuQPOy9f8syi5UtGzFv4dSOvHI/5i57KG7j/bQOHw+FwOBwOh8PhcDgcDofD4XA4HA6Hw+FwOBwOh8PhcMxB99WEyovX3AS6w1sE5+R35zgr1zqp+UV/qLAd3lCmu8xnb369GbiuMA4mSzij248hPGzOKe2DFvhFj3jEDwbrBN18tOhlK8NJsAzQwx04YmnY1o7ixWAyW27R6CBnHKJpcbyRFIRgGs6hFksow084SsLA/gqCYEwsYfcpR8mWYInHcnD1gHdBg3KgWW4Ilvho68USTjm2RRLhs8N7fgnjsnwdS+Ax6ljChihJ+X4EPHTEHURrKXz0XCce0CXDijATRahlG0sB6MhLImB0yVVNmdUZHksuuMExk39lguTKo1hecUvoPt9TCdvP5KZIUkLJIEMtiz3qmLV/YopkeCVIyjwMnWfQP1B1YdAkk1DHdDf9pUiaZkOd/HQ7VZrk5rTT8K7RD3aSEpKkTEzRuUblIu7DSZPcgkCQCVp51I9Dk5TjcoTlJXsMeUTS+Pt/PiU5JpaXXqo1XlIup7S0nip5+xT3BYPPiC0k5cbqfEuWNN1fHo6DDM5OUs1j6JJMcGSM3zmyYZZpI8mZ8vMnSMpYGi3VFZqVJIN6uPEUyfuH7Drap/eWkkr2OUnSZBlrSyhLye0nJU0LQy3r/6IkXE23W9XSUlLJVSY5lgbFVdMjYGBpd3WrF+Qkx1dFgHpgaSUp0o/Nk7B+oaha2k3mygxEl4Tzu2JK0bO0kdRHEVGRjylK1b31uEUWpBdKiJLqJIHzvO+Mk+QyofT0TI0miWRTbywRSZTyiKXmNMfRy6rDLc/Q9shjjUtuGOV7kiNa2EkMdaLJq8UkpTgio0auCw1DoFtDTJEs7NfdXL1n3Rx3pnpPu4qYIllaS5ocm9ZNhup/XE2qBR0IjngtZQfMOBCaM06XTKxLQVy7Y/UcjWFeXSq6pHUV1RTHx/raZJlX1EqvdbXKkIeH1+eBDD9jdcHl33KwrZkLgdcfB2sFUyxp1NaO+Do7VNp0aRnrBKyfPRgqFs/x+LQ0LCFtiX1bR0PtR43ji5Bbcgysn9qJEx7HK3YgyCZaJvnG44THTPh4RB2bHn3UcZnkcbHf7tTn8uNa8fAy0Cl3xvTax7YPgvX6vjCqI4z0usu0FpPcH9vUCH9jwvyj8Jz2mXYbkl4h9HcwhDdjeyiZzz/T7pfFgSEQzddoazg12Uie52tZNswxbCT3szV/UxJ3G8l4rjZ6HEKipKjyuRoSqsWE8ZJyz7laO0JMlqznapIp1IemoyW7JpmzhFJ7x2S0ZLNgmalxq7YoHyt5b9wqV3P/foFrq92RkuLUZIhtM2HDe3GflLSqmT9269L8ri3z8fTPZ5wmCacu5bs1uL5E/xtMiqSA6Pbs/9EqvOD/2SrcWlLItLdQWoU3FGfvntR9nJFvDtzeHmgyz3MvZ2L9PcO42ARR6n2eSq0S/VamTdMo2BTxYO7/A9KeSRDFc4XVAAAAAElFTkSuQmCC",
     },
     {
         company: "Sovos",
-        role: "Software Developer",
-        period: "Apr 2019 — Mar 2021",
-        bullets: ["Web applications, APIs, integrations"],
+        role: { en: "Software Engineer", pt: "Engenheira de Software" },
+        period: { en: "Apr 2019 — Mar 2021", pt: "abr/2019 — mar/2021" },
+        stack: "React, Redux, TypeScript, .NET Core, C#, Jest",
+        bullets: [
+            { en: "Modernized legacy tax compliance applications at a multinational company, working across front-end and back-end", pt: "Modernizei aplicações legadas de compliance fiscal de uma multinacional, atuando em front-end e back-end" },
+        ],
         logo: "https://images.seeklogo.com/logo-png/36/1/sovos-logo-png_seeklogo-363466.png",
     },
     {
-        company: "Webedia",
-        role: "Software Developer",
-        period: "Jul 2018 — Apr 2019",
-        bullets: ["Frontend, HTML5, product features"],
+        company: "Webedia (Minha Vida)",
+        role: { en: "Software Engineer", pt: "Engenheira de Software" },
+        period: { en: "Jul 2018 — Apr 2019", pt: "jul/2018 — abr/2019" },
+        bullets: [
+            { en: "Templatator: content template management system and a user microservice integrated with Google", pt: "Templatator: sistema de gestão de templates de conteúdo e microsserviço de usuários integrado ao Google" },
+            { en: "Sampleo: brand campaign platform built from scratch, with social media integrations", pt: "Sampleo: plataforma de campanhas de marca, construída do zero, com integrações a redes sociais" },
+        ],
         logo: "https://br.webedia-group.com/wp-content/uploads/sites/13/2022/05/webedia-monogram.png",
+    },
+    {
+        company: "Crodity",
+        role: { en: "Software Developer Intern", pt: "Estágio em Desenvolvimento" },
+        period: { en: "Jan 2018 — Jun 2018", pt: "jan/2018 — jun/2018" },
+        stack: "React, Meteor, Node.js",
+        bullets: [],
     },
 ];
 
@@ -48,7 +72,7 @@ type Education = {
     program: { en: string; pt: string };
     period: string;
     logo?: string;
-    note?: string;
+    note?: Localized;
 };
 
 const education: Education[] = [
@@ -60,7 +84,7 @@ const education: Education[] = [
         },
         period: "2026 — present",
         logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqit2W7Tku3xXYwBmoJzYULnlhDh4P6mmr2hL_t-wxVg&s=10",
-        note: "In progress",
+        note: { en: "In progress", pt: "Em andamento" },
     },
     {
         institution: "Faculdade Impacta Tecnologia",
@@ -68,9 +92,9 @@ const education: Education[] = [
             en: "Systems Analysis and Development",
             pt: "Análise e desenvolvimento de sistemas",
         },
-        period: "2016 - 2018",
+        period: "2016 — 2018",
         logo: "https://www.grupogestaorh.com.br/conteudo/publicacoes/B7d5f3946af9d1617bec63ade6980e07ff092315.png",
-        note: "Graduation",
+        note: { en: "Technology degree", pt: "Tecnólogo" },
     },
     {
         institution: "Fundação Getulio Vargas",
@@ -78,7 +102,7 @@ const education: Education[] = [
             en: "Strategic Management of Information Technology",
             pt: "Gestão Estratégica de Tecnologia da Informação",
         },
-        period: "Feb 2022",
+        period: "2022",
         logo: "https://logodownload.org/wp-content/uploads/2016/09/fgv-logo-0.png",
     },
     {
@@ -105,7 +129,8 @@ export default function App(): JSX.Element {
             skillsHeading: 'Skills & Languages',
             techHeader: 'Tech I use',
             contactHeading: 'Contact',
-            bio: 'I believe great engineering is about more than writing great code — it\'s about empowering people, making thoughtful technical decisions, and building systems that scale, both technically and organizationally. Senior Software Engineer with 9+ years in fintech. I mentor engineers, influence architectural direction, support hiring decisions, and collaborate across Product, Design, and Backend to solve complex business challenges. My long-term goal is to lead high-performing engineering organizations where technology, people, and business strategy evolve together.',
+            headline: 'Senior Software Engineer | Front-end | React · TypeScript · Next.js',
+            bio: 'Front-end software engineer with 8+ years of experience, 5+ of them in the financial market at XP Investimentos. I build digital customer acquisition journeys for XP, Clear and Rico: public websites, retail account opening and investment simulators. My focus is customer experience, quality (unit and E2E tests, accessibility) and scalable front-end architecture (monorepo and design system). I also work on back-end (C#/.NET) and mobile (Flutter) when needed. Currently pursuing a Postgraduate Degree in Software Architecture at FIAP.',
             footer: 'Built with React + Vite • Hosted on GitHub Pages',
         },
         pt: {
@@ -116,7 +141,8 @@ export default function App(): JSX.Element {
             skillsHeading: 'Competências & Idiomas',
             techHeader: 'Tecnologias que uso',
             contactHeading: 'Contato',
-            bio: 'Acredito que grande engenharia vai além de escrever bom código — é sobre empoderar pessoas, tomar decisões técnicas cuidadosas e construir sistemas que escalam, tanto tecnicamente quanto organizacionalmente. Senior Software Engineer com 9+ anos em fintech. Mentoro engenheiras e engenheiros, influencio a direção arquitetural, apoio decisões de contratação e colaboro com Produto, Design e Backend para resolver desafios complexos de negócio. Meu objetivo de longo prazo é liderar organizações de engenharia de alto desempenho onde tecnologia, pessoas e estratégia de negócios evoluam juntos.',
+            headline: 'Engenheira de Software Sênior | Front-end | React · TypeScript · Next.js',
+            bio: 'Engenheira de software front-end com 8+ anos de experiência, sendo 5+ no mercado financeiro na XP Investimentos. Construo jornadas digitais de aquisição de clientes para XP, Clear e Rico: sites abertos, abertura de conta PF e simuladores de investimento. Meu foco é experiência do cliente, qualidade (testes unitários, E2E e acessibilidade) e arquitetura front-end escalável (monorepo e design system). Também atuo em back-end (C#/.NET) e mobile (Flutter) quando necessário. Pós-graduanda em Arquitetura de Software na FIAP.',
             footer: 'Criado com React + Vite • Hospedado no GitHub Pages',
         },
     } as const;
@@ -171,6 +197,7 @@ export default function App(): JSX.Element {
             <main className="max-w-4xl mx-auto px-6 py-12">
                 <section className="bg-white shadow rounded-lg p-8">
                     <h1 className="text-3xl md:text-4xl font-bold">Renata Oliveira</h1>
+                    <p className="mt-2 text-lg font-medium accent-text">{L.headline}</p>
                     <p className="mt-4 text-slate-700">{L.bio}</p>
                     <div className="mt-6 flex gap-3">
                         <a href="#contact" className="accent-bg px-4 py-2 rounded">
@@ -205,17 +232,20 @@ export default function App(): JSX.Element {
                                         )}
                                         <div>
                                             <div className="font-semibold">
-                                                {exp.role} — <span className="text-slate-600 font-medium">{exp.company}</span>
+                                                {exp.role[lang]} — <span className="text-slate-600 font-medium">{exp.company}</span>
                                             </div>
-                                            <div className="text-sm text-slate-500">{exp.period} {exp.location ? `· ${exp.location}` : null}</div>
+                                            <div className="text-sm text-slate-500">{exp.period[lang]} {exp.location ? `· ${exp.location}` : null}</div>
+                                            {exp.stack && <div className="text-sm text-slate-500 italic">{exp.stack}</div>}
                                         </div>
                                     </div>
                                 </div>
-                                <ul className="mt-3 list-disc ml-5 text-slate-600">
-                                    {exp.bullets.map((b) => (
-                                        <li key={b}>{b}</li>
-                                    ))}
-                                </ul>
+                                {exp.bullets.length > 0 && (
+                                    <ul className="mt-3 list-disc ml-5 text-slate-600">
+                                        {exp.bullets.map((b) => (
+                                            <li key={b.en}>{b[lang]}</li>
+                                        ))}
+                                    </ul>
+                                )}
                             </article>
                         ))}
                     </div>
@@ -232,7 +262,7 @@ export default function App(): JSX.Element {
                                 <div>
                                     <div className="font-medium">{e.institution} — {e.program[lang]}</div>
                                     <div className="text-sm text-slate-500">{e.period}</div>
-                                    {e.note && <div className="text-sm text-slate-500 mt-1">{e.note}</div>}
+                                    {e.note && <div className="text-sm text-slate-500 mt-1">{e.note[lang]}</div>}
                                 </div>
                             </article>
                         ))}
