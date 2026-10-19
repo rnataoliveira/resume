@@ -129,6 +129,7 @@ Faculdade Impacta de Tecnologia — *2018*
 
 ## Projetos Pessoais
 
+- **[dep-guardian-core](https://www.npmjs.com/package/@rntpkgs/dep-guardian-core)** — Pacote npm (TypeScript) que lê alertas do Dependabot, CodeQL e `npm audit` e aplica correções reais de dependências, sem `overrides`
 - **[Tetris](https://rnataoliveira.github.io/tetris/)** — Implementação do clássico Tetris em JavaScript puro
 - **[Sudoku](https://rnataoliveira.github.io/sudoku/)** — Jogo de Sudoku com geração de puzzles e validação
 

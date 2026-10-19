@@ -10,6 +10,15 @@ type Project = {
 
 const projects: Project[] = [
   {
+    title: "dep-guardian-core",
+    description: {
+      en: "npm package that reads Dependabot, CodeQL and npm audit alerts and applies real dependency fixes — no overrides.",
+      pt: "Pacote npm que lê alertas do Dependabot, CodeQL e npm audit e aplica correções reais de dependências — sem overrides.",
+    },
+    url: "https://www.npmjs.com/package/@rntpkgs/dep-guardian-core",
+    tags: ["TypeScript", "Node.js", "npm"],
+  },
+  {
     title: "tetris",
     description: {
       en: "Classic Tetris game built from scratch.",
